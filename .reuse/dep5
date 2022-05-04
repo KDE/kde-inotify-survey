@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: kde-inotify-survey
+Upstream-Contact: KDE <community@kde.org>
+Source: https://invent.kde.org/sitter/kde-inotify-survey
+
+Files: autotests/fixtures/*
+Copyright: none
+License: CC0-1.0
