@@ -19,13 +19,16 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_definitions(-DQT_DISABLE_DEPRECATED_BEFORE=0x050e00)
 add_definitions(-DKNOTIFICATIONS_DISABLE_DEPRECATED_BEFORE_AND_AT=0x054c00)
 
-find_package(Qt5 5.15 CONFIG REQUIRED Core DBus Qml Quick)
-find_package(KF5KIO 5.78 REQUIRED)
-find_package(KF5CoreAddons 5.78 REQUIRED)
-find_package(KF5DBusAddons 5.78 REQUIRED)
-find_package(KF5Notifications 5.78 REQUIRED)
-find_package(KF5Auth 5.78 REQUIRED)
-find_package(KF5I18n 5.78 REQUIRED)
+find_package(Qt${QT_MAJOR_VERSION} 5.15 CONFIG REQUIRED Core DBus Qml Quick)
+find_package(KF5 5.93.0 REQUIRED
+    COMPONENTS
+        KIO
+        I18n
+        CoreAddons
+        Notifications
+        DBusAddons
+        Auth
+)
 
 add_subdirectory(src)
 add_subdirectory(autotests)
