@@ -1,0 +1,18 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2022 Harald Sitter <sitter@kde.org>
+[Domain]
+Name=inotify Helper
+Icon=show_table_column
+URL=https://www.kde.org
+
+[org.kde.kded.inotify.increaseinstancelimit]
+PolicyInactive=no
+Policy=auth_admin
+Name=Increase Inotify Instance Limit for all Users
+Description=Increase Inotify Instance Limit for all Users
+
+[org.kde.kded.inotify.increasewatchlimit]
+PolicyInactive=no
+Policy=auth_admin
+Name=Increase Inotify Watch Limit for all Users
+Description=Increase Inotify Watch Limit for all Users

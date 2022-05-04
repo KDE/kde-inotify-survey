@@ -1,0 +1,16 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2022 Harald Sitter <sitter@kde.org>
+[Global]
+IconName=show_table_column
+Name=inotify
+Comment=Warnings about inotify capacity problems
+
+[Event/inotifyinstancelow]
+Name=Inotify Instances Capacity Low
+Comment=Available amount of inotify instances is low
+Action=Popup
+
+[Event/inotifywatchlow]
+Name=Inotify Watch Capacity Low
+Comment=Available amount of inotify watches is low
+Action=Popup

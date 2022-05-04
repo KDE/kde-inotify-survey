@@ -1,0 +1,8 @@
+{
+    "KPlugin": {
+        "Description": "Monitors inotify resources for signs of exhaustion",
+        "Name": "inotify"
+    },
+    "X-KDE-FactoryName": "inotify",
+    "X-KDE-Kded-autoload": true
+}
