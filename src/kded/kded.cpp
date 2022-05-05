@@ -16,7 +16,7 @@
 
 using namespace std::chrono_literals;
 
-static constexpr auto warningPercent = 10;
+static constexpr auto warningPercent = 90;
 
 class Notifier : public QObject
 {
