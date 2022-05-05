@@ -3,6 +3,8 @@ SPDX-License-Identifier: CC0-1.0
 SPDX-FileCopyrightText: 2022 Harald Sitter <sitter@kde.org>
 -->
 
+Have you ever wondered why dolphin or any other application stopped noticing file changes? Chances are you ran out of inotify resources. kde-inotify-survey to the rescue! Sporting a kded module to tell you when things are getting dicey and a CLI tool to inspect the state of affairs.
+
 # CLI
 
 `kde-inotify-survey` prints a json presentation of the current inotify state of the user.
