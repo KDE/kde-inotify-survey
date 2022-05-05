@@ -81,6 +81,7 @@ private:
 class InotifyModule : public KDEDModule
 {
     Q_OBJECT
+    Q_CLASSINFO("D-Bus Interface", "org.kde.inotify")
 public:
     explicit InotifyModule(QObject *parent, const QVariantList &args)
         : KDEDModule(parent)
@@ -95,8 +96,8 @@ public:
         m_timer.start();
     }
 
-private Q_SLOTS:
-    void refresh()
+public Q_SLOTS:
+    Q_SCRIPTABLE void refresh()
     {
         const auto entries = collectEntries();
 
