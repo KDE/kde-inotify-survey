@@ -2,6 +2,12 @@
 # SPDX-FileCopyrightText: 2022 Harald Sitter <sitter@kde.org>
 [Domain]
 Name=inotify Helper
+Name[ca]=Ajudant de l'inotify
+Name[es]=Aplicación auxiliar para inotify
+Name[nl]=Helper van inotify
+Name[tr]=inotify Yardımcısı
+Name[uk]=Допоміжний засіб inotify
+Name[x-test]=xxinotify Helperxx
 Icon=show_table_column
 URL=https://www.kde.org
 
@@ -9,10 +15,34 @@ URL=https://www.kde.org
 PolicyInactive=no
 Policy=auth_admin
 Name=Increase Inotify Instance Limit for all Users
+Name[ca]=Augment el límit d'instàncies de l'inotify per a tots els usuaris
+Name[es]=Aumentar el límite de instancias de inotify para todos los usuarios
+Name[nl]=Limiet van aantal exemplaren van Inotify verhogen voor alle gebruikers
+Name[tr]=Tüm Kullanıcılar için Inotify Örnek Sınırını Artır
+Name[uk]=Збільшити максимальну кількість екземплярів inotify для усіх користувачів
+Name[x-test]=xxIncrease Inotify Instance Limit for all Usersxx
 Description=Increase Inotify Instance Limit for all Users
+Description[ca]=Augment el límit d'instàncies de l'inotify per a tots els usuaris
+Description[es]=Aumentar el límite de instancias de inotify para todos los usuarios
+Description[nl]=Limiet van aantal exemplaren van Inotify verhogen voor alle gebruikers
+Description[tr]=Tüm Kullanıcılar için Inotify Örnek Sınırını Artır
+Description[uk]=Збільшити максимальну кількість екземплярів inotify для усіх користувачів
+Description[x-test]=xxIncrease Inotify Instance Limit for all Usersxx
 
 [org.kde.kded.inotify.increasewatchlimit]
 PolicyInactive=no
 Policy=auth_admin
 Name=Increase Inotify Watch Limit for all Users
+Name[ca]=Augment el límit de vigilància de l'inotify per a tots els usuaris
+Name[es]=Aumentar el límite de observaciones de inotify para todos los usuarios
+Name[nl]=Limiet van bewaking van Inotify verhogen voor alle gebruikers
+Name[tr]=Tüm Kullanıcılar için Inotify İzleme Sınırını Artır
+Name[uk]=Збільшити максимальне обмеження на спостереження inotify для усіх користувачів
+Name[x-test]=xxIncrease Inotify Watch Limit for all Usersxx
 Description=Increase Inotify Watch Limit for all Users
+Description[ca]=Augment el límit de vigilància de l'inotify per a tots els usuaris
+Description[es]=Aumentar el límite de observaciones de inotify para todos los usuarios
+Description[nl]=Limiet van bewaking van Inotify verhogen voor alle gebruikers
+Description[tr]=Tüm Kullanıcılar için Inotify İzleme Sınırını Artır
+Description[uk]=Збільшити максимальне обмеження на спостереження inotify для усіх користувачів
+Description[x-test]=xxIncrease Inotify Watch Limit for all Usersxx

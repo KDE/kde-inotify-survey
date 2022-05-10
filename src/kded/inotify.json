@@ -1,7 +1,21 @@
 {
     "KPlugin": {
         "Description": "Monitors inotify resources for signs of exhaustion",
-        "Name": "inotify"
+        "Description[ca]": "Controla els recursos de l'inotify cercant senyals d'exhauriment",
+        "Description[es]": "Supervisa los recursos de inotify buscando signos de agotamiento",
+        "Description[nl]": "Monitort hulpbronnen van inotify op tekenen van uitputting",
+        "Description[sv]": "Övervakar inotify-resurser efter tecken på förbrukning",
+        "Description[tr]": "Tükenme durumuna karşın inotify özkaynaklarını izler",
+        "Description[uk]": "Спостерігає за ознаками вичерпання ресурсів inotify",
+        "Description[x-test]": "xxMonitors inotify resources for signs of exhaustionxx",
+        "Name": "inotify",
+        "Name[ca]": "inotify",
+        "Name[es]": "inotify",
+        "Name[nl]": "inotify",
+        "Name[sv]": "inotify",
+        "Name[tr]": "inotify",
+        "Name[uk]": "inotify",
+        "Name[x-test]": "xxinotifyxx"
     },
     "X-KDE-FactoryName": "inotify",
     "X-KDE-Kded-autoload": true
