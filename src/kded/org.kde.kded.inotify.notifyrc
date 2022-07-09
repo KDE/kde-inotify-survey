@@ -5,6 +5,7 @@ IconName=show_table_column
 Name=inotify
 Name[ca]=inotify
 Name[ca@valencia]=inotify
+Name[cs]=inotify
 Name[es]=inotify
 Name[fr]=inotify
 Name[it]=inotify
