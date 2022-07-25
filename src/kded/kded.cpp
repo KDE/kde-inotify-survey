@@ -8,8 +8,8 @@
 
 #include <QTimer>
 
-#include <KAuth/KAuthAction>
-#include <KAuth/KAuthExecuteJob>
+#include <KAuth/Action>
+#include <KAuth/ExecuteJob>
 #include <KDEDModule>
 #include <KLocalizedString>
 #include <KNotification>

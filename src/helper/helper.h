@@ -3,7 +3,7 @@
 
 #pragma once
 
-#include <KAuth>
+#include <KAuth/ActionReply>
 
 class INotifySurveyHelper : public QObject
 {
