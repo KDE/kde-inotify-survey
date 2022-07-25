@@ -3,6 +3,6 @@
 
 add_library(kded-inotify MODULE kded.cpp)
 set_target_properties(kded-inotify PROPERTIES OUTPUT_NAME inotify)
-target_link_libraries(kded-inotify internalLib KF5::CoreAddons KF5::DBusAddons KF5::Notifications KF5::Auth KF5::I18n)
+target_link_libraries(kded-inotify internalLib KF5::CoreAddons KF5::DBusAddons KF5::Notifications KF5::AuthCore KF5::I18n)
 install(TARGETS kded-inotify DESTINATION ${KDE_INSTALL_PLUGINDIR}/kf5/kded)
 install(FILES org.kde.kded.inotify.notifyrc DESTINATION ${KDE_INSTALL_KNOTIFYRCDIR})
