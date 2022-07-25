@@ -7,6 +7,8 @@
 #include <QFile>
 #include <QProcess>
 
+#include <KAuth/HelperSupport>
+
 #include <entries.h>
 
 [[nodiscard]] static bool reloadSystem()
