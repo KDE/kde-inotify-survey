@@ -33,4 +33,6 @@ find_package(KF5 5.93.0 REQUIRED
 add_subdirectory(src)
 add_subdirectory(autotests)
 
+install(FILES org.kde.inotify-survey.metainfo.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
+
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)

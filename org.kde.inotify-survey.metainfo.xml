@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  SPDX-License-Identifier: FSFAP
+  SPDX-FileCopyrightText: 2022 Harald Sitter <sitter@kde.org>
+ -->
+<component>
+  <id>org.kde.inotify-survey</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>inotify Survey</name>
+  <summary>Surveys inotify state of the system</summary>
+  <description>
+    <p>Have you ever wondered why Dolphin or any other application stopped noticing file changes? Chances are you ran out of inotify resources. kde-inotify-survey to the rescue! Sporting a KDED module to tell you when things are getting dicey and a CLI tool to inspect the state of affairs.</p>
+  </description>
+  <project_group>KDE</project_group>
+  <developer_name>Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <categories>
+    <category>System</category>
+  </categories>
+  <provides>
+    <binary>kde-inotify-survey</binary>
+  </provides>
+</component>
