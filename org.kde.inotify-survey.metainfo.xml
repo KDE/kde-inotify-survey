@@ -9,23 +9,29 @@
   <project_license>GPL-2.0+</project_license>
   <name>inotify Survey</name>
   <name xml:lang="ca">Enquesta d'inotify</name>
+  <name xml:lang="ca-valencia">Enquesta d'inotify</name>
   <name xml:lang="nl">Overzicht van inotify</name>
   <name xml:lang="pt">Questionário do inotify</name>
+  <name xml:lang="sl">inotify Survey</name>
   <name xml:lang="tr">inotify Anketi</name>
   <name xml:lang="uk">Огляд inotify</name>
   <name xml:lang="x-test">xxinotify Surveyxx</name>
   <summary>Surveys inotify state of the system</summary>
   <summary xml:lang="ca">Enquesta l'estat del sistema de l'inotify</summary>
+  <summary xml:lang="ca-valencia">Enquesta l'estat del sistema d'inotify</summary>
   <summary xml:lang="nl">Inspecteert de status van het systeem inotify</summary>
   <summary xml:lang="pt">Questiona o estado do 'inotify' no sistema</summary>
+  <summary xml:lang="sl">Anketa stanja sistema inotify</summary>
   <summary xml:lang="tr">Sistemin inotify durumunu gözden geçirir</summary>
   <summary xml:lang="uk">Подає огляд стану inotify системи</summary>
   <summary xml:lang="x-test">xxSurveys inotify state of the systemxx</summary>
   <description>
     <p>Have you ever wondered why Dolphin or any other application stopped noticing file changes? Chances are you ran out of inotify resources. kde-inotify-survey to the rescue! Sporting a KDED module to tell you when things are getting dicey and a CLI tool to inspect the state of affairs.</p>
     <p xml:lang="ca">Us heu preguntat mai per què el Dolphin o qualsevol altra aplicació van deixar de notificar els canvis dels fitxers? Les probabilitats són que no quedin recursos d'inotify. El «kde-inotify-survey» ve al rescat! Exporteu un mòdul KDED per a dir-vos quan les coses no van bé i una eina CLI per a inspeccionar l'estat dels assumptes.</p>
+    <p xml:lang="ca-valencia">Vos heu preguntat mai per què Dolphin o qualsevol altra aplicació van deixar de notificar els canvis en els fitxers? Les probabilitats són que no queden recursos d'inotify. El «kde-inotify-survey» ve al rescat! Exporteu un mòdul KDED per a dir-vos quan les coses no van bé i una eina CLI per a inspeccionar l'estat dels assumptes.</p>
     <p xml:lang="nl">Hebt u zich ooit afgevraagd waarom Dolphin of elke andere toepassing is gestopt het opmerken van wijzigingen in bestanden? Er is dan kans dat u geen hulpbronnen meer voor inotify had. kde-inotify-survey kan u redden! Bevat een KDED-module om u te vertellen wanneer zaken verkeerd gaan en een CLI-hulpmiddel om de stand van zaken te inspecteren.</p>
     <p xml:lang="pt">Já se questionou porque o Dolphin ou outra aplicação qualquer deixou de reparar nas alterações dos ficheiros? É provável que tenha ficado sem recursos do 'inotify'. O 'kde-inotify-survey' é o salvador! Oferece um módulo do KDED para lhe indicar quando os problemas começam a aparecer e uma ferramenta da linha de comandos para inspeccionar o estado das coisas.</p>
+    <p xml:lang="sl">Ali ste se kdaj vprašali, zakaj je Dolphin ali katera druga aplikacija prenehala zaznavati spremembe datotek? Možno je, da ste porabili vse vire za inotify. Na pomoč kde-inotify-survey! To je športni modul KDED, ki vam pove, kdaj so stvari postale nepredvidljive in ukazno orodje za pregled stanja.</p>
     <p xml:lang="tr">Hiç Dolphin veya başka bir uygulamanın dosya değişikliklerini ayrımlamayı durdurduğunu merak ettiniz mi? Büyük olasılıkla inotify özkaynakları tükenmiş olabilir. kde-inotify-survey günü kurtarmaya geldi! İşler zora girdiğinde size bilgi verecek bir KDED modülü ve incelemek için bir komut satırı aracı ile birlikte gelir.</p>
     <p xml:lang="uk">Чи доводилося вам колись стикатися із ситуацією, коли Dolphin або якась інша програма переставала помічати зміни у файлі? Ймовірно, причиною було вичерпання ресурсів inotify. kde-inotify-survey допоможе розібратися із проблемою! До складу пакунка включено модуль KDED, який повідомить вам про проблему, та інструмент командного рядка для вивчення стану речей.</p>
     <p xml:lang="x-test">xxHave you ever wondered why Dolphin or any other application stopped noticing file changes? Chances are you ran out of inotify resources. kde-inotify-survey to the rescue! Sporting a KDED module to tell you when things are getting dicey and a CLI tool to inspect the state of affairs.xx</p>
@@ -33,8 +39,10 @@
   <project_group>KDE</project_group>
   <developer_name>Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="ca">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="ca-valencia">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="nl">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="pt">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="sl">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="tr">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="uk">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="x-test">xxHarald Sitter &lt;sitter@kde.org&gt;xx</developer_name>
