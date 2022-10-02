@@ -1,0 +1,104 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"PO-Revision-Date: 2022-05-11 07:12+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Lokalize 21.12.2\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Kapaciteta pojavka Inotify je nizka"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Imate preveč aplikacij, ki želijo spremljati spremembe datotek! Ko je "
+"zmogljivost izčrpana, preprečuje, da bi nadaljnje nadzorovanje datotek "
+"delovalo pravilno. Bodisi zaprite nekaj aplikacij ali povečajte mejo. "
+"Trenutnoje v rabi %1% pojavkov in %2% nadzorovanj."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Imate preveč aplikacij, ki želijo spremljati spremembe datotek! Ko je "
+"zmogljivost izčrpana, preprečuje, da bi nadaljnje nadzorovanje datotek "
+"delovalo pravilno. Vaše kapacitete ni mogoče povečati. Poskusite zapreti "
+"nekaj aplikacij, da bi sprostili nekaj virov. Trenutno je v rabi %1% "
+"pojavkov in %2% nadzorovanj."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Povečajte omejitev pojavka"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Kapaciteta nadzorovanja Inofity je nizka"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Vaše odprte aplikacije želijo nadzorovati preveč datotek in njihovih "
+"sprememb! Ko je zmogljivost izčrpana, preprečuje, da bi nadaljnje "
+"nadzorovanje datotek delovalo pravilno. Vaše kapacitete ni mogoče povečati. "
+"Bodisi zaprite nekaj aplikacij ali povečajte omejitev. Trenutno je v rabi "
+"%1% pojavkov in %2% nadzorovanj."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Vaše odprte aplikacije želijo nadzorovati preveč datotek in njihovih "
+"sprememb! Ko je zmogljivost izčrpana, preprečuje, da bi nadaljnje "
+"nadzorovanje datotek delovalo pravilno. Vaše kapacitete ni mogoče povečati. "
+"Poskusite zapreti nekaj aplikacij, da bi sprostili nekaj virov. Trenutno je "
+"v rabi %1% pojavkov in %2% nadzorovanj."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Povečaj omejitev števila nadzorovanj"

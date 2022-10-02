@@ -1,0 +1,102 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"PO-Revision-Date: 2022-05-09 11:29+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Capaciteit voor exemplaren van inotify is laag"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"U hebt teveel toepassingen die wijzigingen in bestanden monitoren! Wanneer "
+"de capaciteit uitgeput is zal het verder op de juiste manier monitoren "
+"verhinderen. Ofwel sluit enige toepassingen of verhoog de limiet. Op dit "
+"moment worden %1% exemplaren gebruikt en %2% worden bewaakt."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"U hebt teveel toepassingen die wijzigingen in bestanden monitoren! Wanneer "
+"de capaciteit uitgeput is zal het verder op de juiste manier monitoren "
+"verhinderen. Uw capaciteit kan niet worden verhoogd. Probeer enige "
+"toepassingen te sluiten om extra hulpbronnen te herstellen. Op dit moment "
+"worden %1% exemplaren gebruikt en %2% worden bewaakt."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Limiet van exemplaren verhogen"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Bewaking van capaciteit van inotify is laag"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Uw geopende toepassingen willen teveel wijzigingen in bestanden monitoren! "
+"Wanneer de capaciteit uitgeput is zal het verder op de juiste manier "
+"monitoren verhinderen. Ofwel sluit enige toepassingen of verhoog de limiet. "
+"Op dit moment worden %1% exemplaren gebruikt en %2% worden bewaakt."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Uw geopende toepassingen willen wijzigingen in teveel bestanden monitoren! "
+"Wanneer de capaciteit uitgeput is zal het verder op de juiste manier "
+"monitoren verhinderen. Uw capaciteit kan niet worden verhoogd. Probeer enige "
+"toepassingen te sluiten om extra hulpbronnen te herstellen. Op dit moment "
+"worden %1% exemplaren gebruikt en %2% worden bewaakt."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Limiet van bewaking verhogen"

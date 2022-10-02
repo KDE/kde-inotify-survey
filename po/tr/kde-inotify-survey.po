@@ -1,0 +1,100 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"PO-Revision-Date: 2022-05-09 18:00+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Inotify Örnek Sığası Düşük"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Dosya değişikliklerini izlemek isteyen pek çok uygulamanız var! Sığa "
+"tükendiğinde dosya izlemenin düzgünce çalışmasını engelleyecektir. Ya bazı "
+"uygulamaları kapatın ya da sınırı artırın. Geçerli durumda %​%1 örnek ve %​%2 "
+"izleme kullanılıyor."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Dosya değişikliklerini izlemek isteyen pek çok uygulamanız var! Sığa "
+"tükendiğinde dosya izlemenin düzgünce çalışmasını engelleyecektir. "
+"Kapasiteniz artırılamaz. Ek kaynakları geri kazanmak için bazı uygulamaları "
+"kapatın. Geçerli durumda %​%1 örnek ve %​%2 izleme kullanılıyor."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Örnek Sınırını Artır"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Inotify İzleme Sığası Düşük"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Dosya değişikliklerini izlemek isteyen pek çok açık uygulamanız var! Sığa "
+"tükendiğinde dosya izlemenin düzgünce çalışmasını engelleyecektir. Ya bazı "
+"uygulamaları kapatın ya da sınırı artırın. Geçerli durumda %​%1 örnek ve %​%2 "
+"izleme kullanılıyor."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Dosya değişikliklerini izlemek isteyen pek çok açık uygulamanız var! Sığa "
+"tükendiğinde dosya izlemenin düzgünce çalışmasını engelleyecektir. "
+"Kapasiteniz artırılamaz. Ek kaynakları geri kazanmak için bazı uygulamaları "
+"kapatın. Geçerli durumda %​%1 örnek ve %​%2 izleme kullanılıyor."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "İzleme Sınırını Artır"

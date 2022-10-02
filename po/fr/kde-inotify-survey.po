@@ -1,0 +1,103 @@
+# Xavier Besnard <xavier.besnard@neuf.fr>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"PO-Revision-Date: 2022-05-11 13:26+0200\n"
+"Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Faible capacité pour les instances « Inotify »"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Vous avez trop d'applications voulant surveiller les modifications de "
+"fichiers ! Quand la capacité est épuisée, cela empêchera le bon "
+"fonctionnement de nouvelles surveillances des fichiers. Il vous faudrait, "
+"soit fermer certaines applications ou augmenter la limite. Actuellement, "
+"vous utilisez %1 % d'instances et %2 % de surveillance."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Vous avez trop d'applications voulant surveiller les modifications de "
+"fichiers ! Quand la capacité est épuisée, cela empêchera le bon "
+"fonctionnement de nouvelles surveillances des fichiers. Il est impossible "
+"d'augmenter votre capacité. Veuillez essayer de fermer certaines "
+"applications pour retrouver des ressources supplémentaires. Actuellement, "
+"vous utilisez %1 % d'instances et %2 % de surveillance."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Augmenter la limite des instances"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Faible capacité de surveillance pour « Inotify »"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Vos applications ouvertes veulent surveiller trop de fichiers pour y "
+"chercher des modifications ! Quand la capacité est épuisée, cela empêchera "
+"le bon fonctionnement des nouvelles surveillances de fichiers. Il vous "
+"faudrait, soit fermer certaines applications ou augmenter la limite. "
+"Actuellement, vous utilisez %1 % d'instances et %2 % de surveillance."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Vos applications ouvertes veulent surveiller trop de fichiers pour y "
+"chercher des modifications ! Quand la capacité est épuisée, cela empêchera "
+"le bon fonctionnement de nouvelles surveillances de fichiers. Il est "
+"impossible d'augmenter votre capacité. Veuillez essayer de fermer certaines "
+"applications pour retrouver des ressources supplémentaires. Actuellement, "
+"vous utilisez %1 % d'instances et %2 % de surveillance."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Augmenter la limite de surveillance"

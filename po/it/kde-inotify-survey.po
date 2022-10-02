@@ -1,0 +1,104 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+# Vincenzo Reale <smart2128vr@gmail.com>, 2022.
+# Valter Mura <valtermura@gmail.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"PO-Revision-Date: 2022-05-21 12:27+0200\n"
+"Last-Translator: Valter Mura <valtermura@gmail.com>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Capacità istanze di inotify bassa"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Ci sono troppe applicazioni che richiedono il monitoraggio delle modifiche "
+"ai file! Quando la capacità è esaurita, verrà impedito il funzionamento "
+"corretto di ulteriori monitoraggi dei file. Chiudi qualche applicazione "
+"oppure aumenta il limite. Attualmente è in uso il %1% di istanze e il %2% di "
+"monitoraggi."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Ci sono troppe applicazioni che richiedono il monitoraggio delle modifiche "
+"ai file! Quando la capacità è esaurita, verrà impedito il funzionamento "
+"corretto di ulteriori monitoraggi dei file. La capacità non può essere "
+"aumentata. Per recuperare risorse aggiuntive prova a chiudere qualche "
+"applicazione. Attualmente è in uso il %1% di istanze e il %2% di monitoraggi."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Aumenta limite istanze"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Capacità monitoraggi di inotify bassa"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Le tue applicazioni aperte vogliono monitorare troppi file per le modifiche! "
+"Quando la capacità è esaurita, verrà impedito il funzionamento corretto di "
+"ulteriori monitoraggi dei file. Chiudi qualche applicazione oppure aumenta "
+"il limite. Attualmente è in uso il %1% di istanze e il %2% di monitoraggi."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Le tue applicazioni aperte vogliono monitorare troppi file per le modifiche! "
+"Quando la capacità è esaurita, verrà impedito il funzionamento corretto di "
+"ulteriori monitoraggi dei file. La capacità non può essere aumentata. Per "
+"recuperare risorse aggiuntive prova a chiudere qualche applicazione. "
+"Attualmente è in uso il %1% di istanze e il %2% di monitoraggi."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Aumenta limite monitoraggi"

@@ -1,0 +1,99 @@
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"PO-Revision-Date: 2022-05-09 19:00+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "inotify-instansens kapacitet låg"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Du har för många program som vill övervaka ändringar av filer. När "
+"kapaciteten är uttömd förhindrar det ytterligare övervakning av filer från "
+"att fungera riktigt. Stäng antingen några program eller öka gränsen. För "
+"närvarande används %1 % av instanser och %2 % av övervakare."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Du har för många program som vill övervaka ändringar av filer. När "
+"kapaciteten är uttömd förhindrar det ytterligare övervakning av filer från "
+"att fungera riktigt. Kapaciteten kan inte ökas. Försök stänga några program "
+"för att återfå ytterligare resurser. För närvarande används %1 % av "
+"instanser och %2 % av övervakare."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Öka instansgräns"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "inotify övervakningskapacitet låg"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Dina öppna program vill övervaka ändringar av för många filer. När "
+"kapaciteten är uttömd förhindrar det ytterligare övervakning av filer från "
+"att fungera riktigt. Stäng antingen några program eller öka gränsen. För "
+"närvarande används %1 % av instanser och %2 % av övervakare."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Dina öppna program vill övervaka ändringar av för många filer. När "
+"kapaciteten är uttömd förhindrar det ytterligare övervakning av filer från "
+"att fungera riktigt. Kapaciteten kan inte ökas. Försök stänga några program "
+"för att återfå ytterligare resurser. För närvarande används %1 % av "
+"instanser och %2 % av övervakare."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Öka övervakningsgräns"
