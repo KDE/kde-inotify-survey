@@ -119,7 +119,7 @@ public Q_SLOTS:
         const auto watchPercent = 100 * allWatches / capacity.max_user_watches;
         const auto maxCapacity = maximumINotifyCapacity();
 
-        m_instanceNotifier.process(Notifier::Context {
+        m_instanceNotifier.process(Notifier::Context{
             .percent = instancePercent,
             .eventId = QStringLiteral("inotifyinstancelow"),
             .title = i18nc("@title", "Inotify Instance Capacity Low"),
@@ -143,7 +143,7 @@ public Q_SLOTS:
             .authAction = QStringLiteral("org.kde.kded.inotify.increaseinstancelimit"),
         });
 
-        m_watchNotifier.process(Notifier::Context {
+        m_watchNotifier.process(Notifier::Context{
             .percent = watchPercent,
             .eventId = QStringLiteral("inotifywatchlow"),
             .title = i18nc("@title", "Inotify Watch Capacity Low"),

@@ -45,7 +45,8 @@ std::vector<Entry> collectEntries(const std::string_view &procPath)
             continue;
         }
 
-        struct stat statbuf{};
+        struct stat statbuf {
+        };
         if (lstat(procEntry.path().c_str(), &statbuf) != 0) {
             qWarning() << "Failed to stat" << procEntry.path().c_str() << strerror(errno);
             continue;

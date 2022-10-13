@@ -31,8 +31,7 @@ KAuth::ActionReply INotifySurveyHelper::increaseinstancelimit(const QVariantMap 
     const auto capacity = inotifyCapacity();
     const auto maxCapacity = maximumINotifyCapacity();
     const auto newLimit = qMin(capacity.max_user_instances + instanceStepSize(), maxCapacity.max_user_instances);
-    if (QFile file(QStringLiteral("/etc/sysctl.d/50-kde-inotify-survey-max_user_instances.conf"));
-        file.open(QFile::WriteOnly | QFile::Truncate)) {
+    if (QFile file(QStringLiteral("/etc/sysctl.d/50-kde-inotify-survey-max_user_instances.conf")); file.open(QFile::WriteOnly | QFile::Truncate)) {
         file.write(head());
         file.write(QStringLiteral("fs.inotify.max_user_instances=%1\n").arg(QString::number(newLimit)).toUtf8());
     } else {
@@ -51,8 +50,7 @@ KAuth::ActionReply INotifySurveyHelper::increasewatchlimit(const QVariantMap &ar
     const auto capacity = inotifyCapacity();
     const auto maxCapacity = maximumINotifyCapacity();
     const auto newLimit = qMin(capacity.max_user_watches + watchStepSize(), maxCapacity.max_user_watches);
-    if (QFile file(QStringLiteral("/etc/sysctl.d/50-kde-inotify-survey-max_user_watches.conf"));
-        file.open(QFile::WriteOnly | QFile::Truncate)) {
+    if (QFile file(QStringLiteral("/etc/sysctl.d/50-kde-inotify-survey-max_user_watches.conf")); file.open(QFile::WriteOnly | QFile::Truncate)) {
         file.write(head());
         file.write(QStringLiteral("fs.inotify.max_user_watches=%1\n").arg(QString::number(newLimit)).toUtf8());
     } else {

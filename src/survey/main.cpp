@@ -63,6 +63,5 @@ int main(int argc, char **argv)
                                          }))
                                .toJson(QJsonDocument::JsonFormat::Indented);
 
-
     return 0;
 }
