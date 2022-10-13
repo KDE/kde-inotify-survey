@@ -16,6 +16,8 @@ include(FeatureSummary)
 include(KDEInstallDirs)
 include(KDECMakeSettings)
 include(KDECompilerSettings)
+include(KDEClangFormat)
+include(KDEGitCommitHooks)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -39,5 +41,9 @@ add_subdirectory(src)
 add_subdirectory(autotests)
 
 install(FILES org.kde.inotify-survey.metainfo.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
+
+file(GLOB_RECURSE ALL_CLANG_FORMAT_SOURCE_FILES *.cpp *.h)
+kde_clang_format(${ALL_CLANG_FORMAT_SOURCE_FILES})
+kde_configure_git_pre_commit_hook(CHECKS CLANG_FORMAT)
 
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)
