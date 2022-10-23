@@ -3,7 +3,7 @@
 
 project(kde-inotify-survey)
 
-cmake_minimum_required(VERSION 3.15)
+cmake_minimum_required(VERSION 3.22)
 
 set(KF5_MIN_VERSION "5.93.0")
 set(QT_REQUIRED_VERSION "5.15.2")
