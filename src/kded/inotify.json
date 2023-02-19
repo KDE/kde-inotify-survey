@@ -41,6 +41,5 @@
         "Name[uk]": "inotify",
         "Name[x-test]": "xxinotifyxx"
     },
-    "X-KDE-FactoryName": "inotify",
     "X-KDE-Kded-autoload": true
 }
