@@ -40,6 +40,8 @@ find_package(KF5 ${KF5_MIN_VERSION} REQUIRED
 add_subdirectory(src)
 add_subdirectory(autotests)
 
+ki18n_install(po)
+
 install(FILES org.kde.inotify-survey.metainfo.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
 
 file(GLOB_RECURSE ALL_CLANG_FORMAT_SOURCE_FILES *.cpp *.h)
