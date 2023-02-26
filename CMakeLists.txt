@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: BSD-3-Clause
 # SPDX-FileCopyrightText: 2021-2022 Harald Sitter <sitter@kde.org>
 
-project(kde-inotify-survey)
-
 cmake_minimum_required(VERSION 3.22)
+
+project(kde-inotify-survey)
 
 set(KF5_MIN_VERSION "5.93.0")
 set(QT_REQUIRED_VERSION "5.15.2")
