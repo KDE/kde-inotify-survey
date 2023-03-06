@@ -5,11 +5,11 @@ cmake_minimum_required(VERSION 3.22)
 
 project(kde-inotify-survey)
 
-set(KF5_MIN_VERSION "5.93.0")
+set(KF_MIN_VERSION "5.93.0")
 set(QT_REQUIRED_VERSION "5.15.2")
 set(KDE_COMPILERSETTINGS_LEVEL "5.82")
 
-find_package(ECM ${KF5_MIN_VERSION} REQUIRED NO_MODULE)
+find_package(ECM ${KF_MIN_VERSION} REQUIRED NO_MODULE)
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH})
 
 include(FeatureSummary)
@@ -27,7 +27,7 @@ add_definitions(-DQT_DISABLE_DEPRECATED_BEFORE=0x050e00)
 add_definitions(-DKNOTIFICATIONS_DISABLE_DEPRECATED_BEFORE_AND_AT=0x054c00)
 
 find_package(Qt${QT_MAJOR_VERSION} ${QT_REQUIRED_VERSION} CONFIG REQUIRED Core DBus)
-find_package(KF5 ${KF5_MIN_VERSION} REQUIRED
+find_package(KF${QT_MAJOR_VERSION} ${KF_MIN_VERSION} REQUIRED
     COMPONENTS
         I18n
         CoreAddons

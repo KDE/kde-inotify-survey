@@ -6,6 +6,7 @@
 
 #include <chrono>
 
+#include <QPointer>
 #include <QTimer>
 
 #include <KAuth/Action>

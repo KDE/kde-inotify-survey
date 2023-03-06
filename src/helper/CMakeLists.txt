@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2022 Harald Sitter <sitter@kde.org>
 
 add_executable(kded-inotify-helper helper.cpp)
-target_link_libraries(kded-inotify-helper internalLib KF5::AuthCore)
+target_link_libraries(kded-inotify-helper internalLib KF${QT_MAJOR_VERSION}::AuthCore)
 
 kauth_install_actions(org.kde.kded.inotify org.kde.kded.inotify.actions)
 kauth_install_helper_files(kded-inotify-helper org.kde.kded.inotify root)
