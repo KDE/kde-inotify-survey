@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"POT-Creation-Date: 2023-03-07 00:49+0000\n"
 "PO-Revision-Date: 2022-08-22 15:48+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -20,13 +20,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 22.04.3\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:126
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "«inotify» intantzia-gaitasun apala"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:129
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -40,7 +40,7 @@ msgstr ""
 "eragotziko du. Aplikazio batzuk itxi edo muga handiagotu. Une honetan "
 "instantzien %%1 eta zaintzen %%2 erabiltzen ditu."
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:136
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -56,19 +56,19 @@ msgstr ""
 "ixten baliabide osagarriak berreskuratzeko. Une honetan instantzien %%1 eta "
 "zaintzen %%2 erabiltzen ditu."
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:143
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Handiagotu instantzia-muga"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:150
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "«inotify»ren zaintza-gaitasun apala"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:153
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -82,7 +82,7 @@ msgstr ""
 "egitea eragotziko du.  Aplikazio batzuk itxi edo muga handiagotu. Une "
 "honetan instantzien %%1 eta zaintzen %%2 erabiltzen ditu."
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:160
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -98,7 +98,7 @@ msgstr ""
 "ixten baliabide osagarriak berreskuratzeko. Une honetan instantzien %%1 eta "
 "zaintzen %%2 erabiltzen ditu."
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:167
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

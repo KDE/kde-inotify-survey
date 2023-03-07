@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"POT-Creation-Date: 2023-03-07 00:49+0000\n"
 "PO-Revision-Date: 2022-05-21 12:27+0200\n"
 "Last-Translator: Valter Mura <valtermura@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 22.04.0\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:126
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Capacità istanze di inotify bassa"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:129
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -39,7 +39,7 @@ msgstr ""
 "oppure aumenta il limite. Attualmente è in uso il %1% di istanze e il %2% di "
 "monitoraggi."
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:136
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -55,19 +55,19 @@ msgstr ""
 "aumentata. Per recuperare risorse aggiuntive prova a chiudere qualche "
 "applicazione. Attualmente è in uso il %1% di istanze e il %2% di monitoraggi."
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:143
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Aumenta limite istanze"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:150
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Capacità monitoraggi di inotify bassa"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:153
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -81,7 +81,7 @@ msgstr ""
 "ulteriori monitoraggi dei file. Chiudi qualche applicazione oppure aumenta "
 "il limite. Attualmente è in uso il %1% di istanze e il %2% di monitoraggi."
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:160
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -97,7 +97,7 @@ msgstr ""
 "recuperare risorse aggiuntive prova a chiudere qualche applicazione. "
 "Attualmente è in uso il %1% di istanze e il %2% di monitoraggi."
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:167
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

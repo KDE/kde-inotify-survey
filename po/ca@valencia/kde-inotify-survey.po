@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"POT-Creation-Date: 2023-03-07 00:49+0000\n"
 "PO-Revision-Date: 2022-07-11 13:25+0200\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -21,13 +21,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 22.04.3\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:126
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Baixa la capacitat d'instàncies d'inotify"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:129
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -41,7 +41,7 @@ msgstr ""
 "fitxers funcione correctament. Tanqueu algunes aplicacions o augmenteu el "
 "límit. Actualment, s'utilitza %1% d'instàncies i %2% dels vigilants."
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:136
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -57,19 +57,19 @@ msgstr ""
 "tancar algunes aplicacions per a recuperar recursos addicionals. Actualment, "
 "s'utilitza %1% d'instàncies i %2% dels vigilants."
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:143
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Augmenta el límit d'instàncies"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:150
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Baixa la capacitat de vigilància d'inotify"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:153
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -83,7 +83,7 @@ msgstr ""
 "funcione correctament. Tanqueu algunes aplicacions o augmenteu el límit. "
 "Actualment, s'utilitza %1% d'instàncies i %2% dels vigilants."
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:160
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -99,7 +99,7 @@ msgstr ""
 "algunes aplicacions per a recuperar recursos addicionals. Actualment, "
 "s'utilitza %1% d'instàncies i %2% dels vigilants."
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:167
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

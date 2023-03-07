@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-11 00:47+0000\n"
+"POT-Creation-Date: 2023-03-07 00:49+0000\n"
 "PO-Revision-Date: 2022-05-12 00:59+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 21.12.3\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:126
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "inotify 인스턴스 용량 부족"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:129
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -37,7 +37,7 @@ msgstr ""
 "램을 끝내거나 제한을 증가시키십시오. 현재 인스턴스의 %1%, 주시의 %2%를 사용 "
 "중입니다."
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:136
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -52,19 +52,19 @@ msgstr ""
 "시킬 수 없습니다. 일부 프로그램을 끝내서 추가 자원을 확보하십시오. 현재 인스"
 "턴스의 %1%, 주시의 %2%를 사용 중입니다."
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:143
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "인스턴스 제한 증가"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:150
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "inotify 주시 용량 부족"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:153
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 "입니다. 일부 프로그램을 끝내거나 제한을 증가시키십시오. 현재 인스턴스의 %1%, "
 "주시의 %2%를 사용 중입니다."
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:160
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -93,7 +93,7 @@ msgstr ""
 "입니다. 제한을 증가시킬 수 없습니다. 일부 프로그램을 끝내서 추가 자원을 확보"
 "하십시오. 현재 인스턴스의 %1%, 주시의 %2%를 사용 중입니다."
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:167
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
