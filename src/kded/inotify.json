@@ -19,6 +19,7 @@
         "Description[tr]": "Tükenme durumuna karşın inotify özkaynaklarını izler",
         "Description[uk]": "Спостерігає за ознаками вичерпання ресурсів inotify",
         "Description[x-test]": "xxMonitors inotify resources for signs of exhaustionxx",
+        "Description[zh_CN]": "监视 inotify 资源是否即将耗尽",
         "Name": "inotify",
         "Name[ca@valencia]": "inotify",
         "Name[ca]": "inotify",
@@ -40,7 +41,8 @@
         "Name[sv]": "inotify",
         "Name[tr]": "inotify",
         "Name[uk]": "inotify",
-        "Name[x-test]": "xxinotifyxx"
+        "Name[x-test]": "xxinotifyxx",
+        "Name[zh_CN]": "inotify"
     },
     "X-KDE-Kded-autoload": true
 }
