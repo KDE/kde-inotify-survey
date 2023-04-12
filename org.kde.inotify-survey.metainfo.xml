@@ -95,4 +95,7 @@
   <provides>
     <binary>kde-inotify-survey</binary>
   </provides>
+  <releases>
+    <release version="23.04.0" date="2023-04-20"/>
+  </releases>
 </component>
