@@ -6,6 +6,7 @@
         "Description[en_GB]": "Monitors inotify resources for signs of exhaustion",
         "Description[es]": "Supervisa los recursos de inotify buscando signos de agotamiento",
         "Description[eu]": "«inotify» baliabideak gainbegiratzen ditu agortze-zantzu bila",
+        "Description[fi]": "Valvoo inotify-resurssien käymistä vähiin",
         "Description[fr]": "Surveille les ressources « Inotify » pour des signes d'épuisement.",
         "Description[gl]": "Vixía recursos de inotify en busca de signos de esgotamento",
         "Description[id]": "Pemantauan sumberdaya inotify untuk tanda-tanda kehabisan",
