@@ -13,6 +13,7 @@
   <name xml:lang="en-GB">inotify Survey</name>
   <name xml:lang="es">Inspección de «inotify»</name>
   <name xml:lang="eu">«inotify» ikuskapena</name>
+  <name xml:lang="fi">inotify Survey</name>
   <name xml:lang="fr">Surveillance « inotify »</name>
   <name xml:lang="gl">Consulta de inotify</name>
   <name xml:lang="id">Survei inotify</name>
@@ -35,6 +36,7 @@
   <summary xml:lang="en-GB">Surveys inotify state of the system</summary>
   <summary xml:lang="es">Inspecciona el estado de «inotify» del sistema</summary>
   <summary xml:lang="eu">Sistemako «inotify»ren egoera ikuskatzen du</summary>
+  <summary xml:lang="fi">Tutkii järjestelmän inotify-tilaa</summary>
   <summary xml:lang="fr">Surveille l'état « inotify » du système</summary>
   <summary xml:lang="gl">Consulta a inotify o estado do sistema</summary>
   <summary xml:lang="id">Survei inotify keadaan sistem</summary>
@@ -58,6 +60,7 @@
     <p xml:lang="en-GB">Have you ever wondered why Dolphin or any other application stopped noticing file changes? Chances are you ran out of inotify resources. kde-inotify-survey to the rescue! Sporting a KDED module to tell you when things are getting dicey and a CLI tool to inspect the state of affairs.</p>
     <p xml:lang="es">¿Alguna vez se ha preguntado por qué Dolphin o cualquier otra aplicación ha dejado de detectar cambios en los archivos? Lo más probable es que se haya quedado sin recursos de «inotify». ¡«kde-inotify-survey» al rescate! Contiene un módulo de KDED que le indica cuándo se vuelven peligrosas las cosas y una herramienta para la línea de órdenes que inspecciona el estado de los problemas.</p>
     <p xml:lang="eu">Zure buruari inoiz galdetu diozu zergatik Dolphin edo beste edozein aplikaziok utzi dion fitxategien aldaketak nabaritzeari? Baliteke «inotify» baliabiderik gabe geratu izana. «kde-inotify-survey» erreskatera! KDED modulu bat du gauzak arriskutsu noiz jartzen diren esateko eta gauzen egoera ikuskatzeko CLI tresna bat.</p>
+    <p xml:lang="fi">Oletko koskaan miettinyt, miksi Dolphin tai muu sovellus lakkaa huomaamasta tiedostojen muutoksia? inotify-resurssit ovat mahdollisesti loppuneet. kde-inotify-survey tulee apuun! Sen KDED-moduuli kertoo, kun asiat alkavat mennä mönkään, ja sen komentorivityökalulla voi tarkistaa asiantilan.</p>
     <p xml:lang="fr">Vous êtes-vous déjà demandé pourquoi Dolphin ou toute autre application a cessé de signaler les modifications de fichiers ? Il est très probable que vous êtes à court de ressources « inotify. Appelez « kde-inotify-survey » à la rescousse ! Avec un module « KDED » pour vous dire quand les choses deviennent risquées et un outil « CLI » pour inspecter l'état des affaires.</p>
     <p xml:lang="gl">Preguntouse algunha vez por que Dolphin ou outra aplicacións deixan de reaccionar a cambios en ficheiros? Posibelmente sexa porque se esgotaron os recursos de inotify. kde-inotify-survey fornece un módulo de KDED que lle informará cando a cousa estea mal e unha ferramenta de liña de ordes para inspeccionar o estado das cousas.</p>
     <p xml:lang="id">Pernahkah Anda bertanya-tanya mengapa Dolphin atau aplikasi lain berhenti memperhatikan perubahan file? Kemungkinan Anda kehabisan sumber daya inotify. kde-inotify-survey untuk menyelamatkan! Menggunakan modul KDED untuk memberi tahu Anda saat keadaan menjadi tidak pasti dan alat CLI untuk memeriksa keadaan.</p>
@@ -84,6 +87,7 @@
   <developer_name xml:lang="en-GB">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="es">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="eu">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="fi">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="fr">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="gl">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="id">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
