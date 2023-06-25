@@ -1,0 +1,101 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+# Tommi Nieminen <translator@legisign.org>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-03-07 00:49+0000\n"
+"PO-Revision-Date: 2023-06-07 17:05+0300\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.04.1\n"
+
+#: kded/kded.cpp:126
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "inotify-instanssikapasiteetti vähissä"
+
+#: kded/kded.cpp:129
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Liian moni sovellus haluaa valvoa tiedostomuutoksia! Kun kapasiteetti käy "
+"vähiin, muutosten valvonta ei enää toimi kunnolla. Sulje joitakin "
+"sovelluksia tai nosta rajaa. Tällä hetkellä käytössä on %1 % instansseista "
+"ja %2 % vahdeista."
+
+#: kded/kded.cpp:136
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Liian moni sovellus haluaa valvoa tiedostomuutoksia! Kun kapasiteetti käy "
+"vähiin, muutosten valvonta ei enää toimi kunnolla. Kapasiteettia ei voi "
+"lisätä. Kokeile sulkea joitakin sovelluksia resurssien palauttamiseksi. "
+"Tällä hetkellä käytössä on %1 % instansseista ja %2 % vahdeista."
+
+#: kded/kded.cpp:143
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Nosta instanssirajaa"
+
+#: kded/kded.cpp:150
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "inotify-vahtikapasiteetti vähissä"
+
+#: kded/kded.cpp:153
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Avoimet sovellukset haluavat valvoa liian monien tiedostojen muutoksia! Kun "
+"kapasiteetti käy vähiin, muutosten valvonta ei enää toimi kunnolla. Sulje "
+"joitakin sovelluksia tai nosta rajaa. Tällä hetkellä käytössä on %1 % "
+"instansseista ja %2 % vahdeista."
+
+#: kded/kded.cpp:160
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Avoimet sovellukset haluavat valvoa liian monien tiedostojen muutoksia! Kun "
+"kapasiteetti käy vähiin, muutosten valvonta ei enää toimi kunnolla. "
+"Kapasiteettia ei voi lisätä. Kokeile sulkea joitakin sovelluksia resurssien "
+"palauttamiseksi. Tällä hetkellä käytössä on %1 % instansseista ja %2 % "
+"vahdeista."
+
+#: kded/kded.cpp:167
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Nosta vahtirajaa"
