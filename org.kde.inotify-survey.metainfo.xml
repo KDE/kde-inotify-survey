@@ -11,6 +11,7 @@
   <name xml:lang="ca">Enquesta d'inotify</name>
   <name xml:lang="ca-valencia">Enquesta d'inotify</name>
   <name xml:lang="en-GB">inotify Survey</name>
+  <name xml:lang="eo">inotify-Enketo</name>
   <name xml:lang="es">Inspección de «inotify»</name>
   <name xml:lang="eu">«inotify» ikuskapena</name>
   <name xml:lang="fi">inotify Survey</name>
@@ -34,6 +35,7 @@
   <summary xml:lang="ca">Enquesta l'estat del sistema de l'inotify</summary>
   <summary xml:lang="ca-valencia">Enquesta l'estat del sistema d'inotify</summary>
   <summary xml:lang="en-GB">Surveys inotify state of the system</summary>
+  <summary xml:lang="eo">Enketas inotify-staton de la sistemo</summary>
   <summary xml:lang="es">Inspecciona el estado de «inotify» del sistema</summary>
   <summary xml:lang="eu">Sistemako «inotify»ren egoera ikuskatzen du</summary>
   <summary xml:lang="fi">Tutkii järjestelmän inotify-tilaa</summary>
@@ -85,6 +87,7 @@
   <developer_name xml:lang="cs">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="de">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="en-GB">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="eo">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="es">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="eu">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="fi">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
