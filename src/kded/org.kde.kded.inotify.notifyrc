@@ -27,6 +27,7 @@ Name[sv]=inotify
 Name[tr]=inotify
 Name[uk]=inotify
 Name[x-test]=xxinotifyxx
+Name[zh_CN]=inotify
 Comment=Warnings about inotify capacity problems
 Comment[ca]=Avisos quant als problemes de capacitat de l'inotify
 Comment[ca@valencia]=Avisos quant als problemes de capacitat d'inotify
