@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This file is copyright:
 # This file is distributed under the same license as the kde-inotify-survey package.
-# Shinjo Park <kde@peremen.name>, 2022.
+# Shinjo Park <kde@peremen.name>, 2022, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-07 00:49+0000\n"
-"PO-Revision-Date: 2022-05-12 00:59+0200\n"
+"PO-Revision-Date: 2023-08-08 00:03+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 21.12.3\n"
+"X-Generator: Lokalize 22.12.3\n"
 
 #: kded/kded.cpp:126
 #, kde-format
@@ -47,9 +47,9 @@ msgid ""
 "watches."
 msgstr ""
 "파일 변경 사항을 감시하는 앱이 너무 많이 열려 있습니다! 용량을 전부 다 사용하"
-"면 차후의 파일 감시 기능이 올바르게 작동하지 않을 것입니다. 제한을 증가시킬 "
-"수 없습니다. 일부 앱을 끝내서 추가 자원을 확보하십시오. 현재 인스턴스의 %1%, "
-"주시의 %2%를 사용 중입니다."
+"면 차후의 파일 감시 기능이 올바르게 작동하지 않습니다. 제한을 증가시킬 수 없"
+"습니다. 일부 앱을 끝내서 추가 자원을 확보하십시오. 현재 인스턴스의 %1%, 주시"
+"의 %2%를 사용 중입니다."
 
 #: kded/kded.cpp:143
 #, kde-format
@@ -88,9 +88,9 @@ msgid ""
 "watches."
 msgstr ""
 "열려 있는 앱에서 너무 많은 파일의 변경 사항을 감시하려고 하고 있습니다! 용량"
-"을 전부 다 사용하면 차후의 파일 감시 기능이 올바르게 작동하지 않을 것입니다. "
-"제한을 증가시킬 수 없습니다. 일부 앱을 끝내서 추가 자원을 확보하십시오. 현재 "
-"인스턴스의 %1%, 주시의 %2%를 사용 중입니다."
+"을 전부 다 사용하면 차후의 파일 감시 기능이 올바르게 작동하지 않습니다. 제한"
+"을 증가시킬 수 없습니다. 일부 앱을 끝내서 추가 자원을 확보하십시오. 현재 인스"
+"턴스의 %1%, 주시의 %2%를 사용 중입니다."
 
 #: kded/kded.cpp:167
 #, kde-format
