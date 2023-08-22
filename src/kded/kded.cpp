@@ -51,26 +51,30 @@ public:
             m_notification->setText(context.text);
 
             if (context.actionable) {
-                m_notification->setActions({context.actionLabel});
                 m_notification->setFlags(KNotification::Persistent);
+                const QString authAction = context.authAction; // so we don't need to keep the entire context
+#if QT_VERSION < QT_VERSION_CHECK(6, 0, 0)
+                m_notification->setActions({context.actionLabel});
+                connect(m_notification.data(), &KNotification::activated, this, [this, authAction]() {
+#else
+                auto action = m_notification->addAction(context.actionLabel);
+                connect(action, &KNotificationAction::activated, this, [this, authAction]() {
+#endif
+                    m_notification->disconnect(this);
+                    m_notification->deleteLater();
+
+                    KAuth::Action action(authAction);
+                    action.setHelperId(QStringLiteral("org.kde.kded.inotify"));
+
+                    KAuth::ExecuteJob *job = action.execute();
+                    connect(job, &KJob::result, this, [this, job] {
+                        job->deleteLater();
+                        Q_EMIT actioned();
+                    });
+                    job->start();
+                });
             }
             m_notification->sendEvent();
-
-            const QString authAction = context.authAction; // so we don't need to keep the entire context
-            connect(m_notification.data(), &KNotification::activated, this, [this, authAction]() {
-                m_notification->disconnect(this);
-                m_notification->deleteLater();
-
-                KAuth::Action action(authAction);
-                action.setHelperId(QStringLiteral("org.kde.kded.inotify"));
-
-                KAuth::ExecuteJob *job = action.execute();
-                connect(job, &KJob::result, this, [this, job] {
-                    job->deleteLater();
-                    Q_EMIT actioned();
-                });
-                job->start();
-            });
         }
     }
 
