@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-07 00:49+0000\n"
+"POT-Creation-Date: 2023-11-05 12:39+0000\n"
 "PO-Revision-Date: 2022-05-11 07:12+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -18,13 +18,13 @@ msgstr ""
 "%100==4 ? 3 : 0);\n"
 "X-Generator: Lokalize 21.12.2\n"
 
-#: kded/kded.cpp:126
+#: kded/kded.cpp:130
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Kapaciteta pojavka Inotify je nizka"
 
-#: kded/kded.cpp:129
+#: kded/kded.cpp:133
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -38,7 +38,7 @@ msgstr ""
 "delovalo pravilno. Bodisi zaprite nekaj aplikacij ali povečajte mejo. "
 "Trenutnoje v rabi %1% pojavkov in %2% nadzorovanj."
 
-#: kded/kded.cpp:136
+#: kded/kded.cpp:140
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -54,19 +54,19 @@ msgstr ""
 "nekaj aplikacij, da bi sprostili nekaj virov. Trenutno je v rabi %1% "
 "pojavkov in %2% nadzorovanj."
 
-#: kded/kded.cpp:143
+#: kded/kded.cpp:147
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Povečajte omejitev pojavka"
 
-#: kded/kded.cpp:150
+#: kded/kded.cpp:154
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Kapaciteta nadzorovanja Inofity je nizka"
 
-#: kded/kded.cpp:153
+#: kded/kded.cpp:157
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -81,7 +81,7 @@ msgstr ""
 "Bodisi zaprite nekaj aplikacij ali povečajte omejitev. Trenutno je v rabi "
 "%1% pojavkov in %2% nadzorovanj."
 
-#: kded/kded.cpp:160
+#: kded/kded.cpp:164
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -97,7 +97,7 @@ msgstr ""
 "Poskusite zapreti nekaj aplikacij, da bi sprostili nekaj virov. Trenutno je "
 "v rabi %1% pojavkov in %2% nadzorovanj."
 
-#: kded/kded.cpp:167
+#: kded/kded.cpp:171
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

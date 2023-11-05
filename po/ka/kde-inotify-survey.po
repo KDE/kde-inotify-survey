@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-07 00:49+0000\n"
+"POT-Creation-Date: 2023-11-05 12:39+0000\n"
 "PO-Revision-Date: 2022-05-23 05:31+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <kde-i18n-doc@kde.org>\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: kded/kded.cpp:126
+#: kded/kded.cpp:130
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Inotify-ის გაშვებული ასლების რაოდენობა დაბალია"
 
-#: kded/kded.cpp:129
+#: kded/kded.cpp:133
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -38,7 +38,7 @@ msgstr ""
 "ხელს შეუშლის . დახურეთ ზოგიერთი აპლიკაცია ან გაზარდეთ ლიმიტი. ამჟამად "
 "გამოიყენება გაშვებული ასლები: %1% და მაყურებლები %2%."
 
-#: kded/kded.cpp:136
+#: kded/kded.cpp:140
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -54,19 +54,19 @@ msgstr ""
 "დახურეთ ზოგიერთი აპლიკაცია. ამჟამად გამოიყენება გაშვებული ასლები: %1% და "
 "მაყურებლები %2%."
 
-#: kded/kded.cpp:143
+#: kded/kded.cpp:147
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "გაშვებული ასლის ლიმიტის გაზრდა"
 
-#: kded/kded.cpp:150
+#: kded/kded.cpp:154
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Inotify-ის მაყურებლის მოცულობა საკმარისზე ნაკლებია"
 
-#: kded/kded.cpp:153
+#: kded/kded.cpp:157
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -80,7 +80,7 @@ msgstr ""
 "შეუშლის . დახურეთ ზოგიერთი აპლიკაცია ან გაზარდეთ ლიმიტი. ამჟამად გამოიყენება "
 "გაშვებული ასლები: %1% და მაყურებლები %2%."
 
-#: kded/kded.cpp:160
+#: kded/kded.cpp:164
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -95,7 +95,7 @@ msgstr ""
 "შეუშლის . დახურეთ ზოგიერთი აპლიკაცია ან გაზარდეთ ლიმიტი. ამჟამად გამოიყენება "
 "გაშვებული ასლები: %1% და მაყურებლები %2%."
 
-#: kded/kded.cpp:167
+#: kded/kded.cpp:171
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
