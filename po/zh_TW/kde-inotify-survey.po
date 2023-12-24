@@ -4,25 +4,27 @@
 # This file is distributed under the same license as the kde-inotify-survey package.
 # Automatically generated, 2022.
 #
+# SPDX-FileCopyrightText: 2023 Kisaragi Hiu <mail@kisaragi-hiu.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:39+0000\n"
-"PO-Revision-Date: 2022-05-11 00:47+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-12-24 05:27+0900\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 23.08.4\n"
 
 #: kded/kded.cpp:130
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
-msgstr ""
+msgstr "Inotify 實體能力不足"
 
 #: kded/kded.cpp:133
 #, kde-format
@@ -33,6 +35,8 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
+"您有太多希望監控檔案變更的應用程式了！當能力用盡時會無法繼續正常監控檔案變"
+"更。您可以關閉一些應用程式或提高限制。目前使用實體的 %1% 和監控的 %2%。"
 
 #: kded/kded.cpp:140
 #, kde-format
@@ -44,18 +48,21 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
+"您有太多希望監控檔案變更的應用程式了！當能力用盡時會無法繼續正常監控檔案變"
+"更。您的能力無法被提高。請嘗試關閉一些應用程式來回復額外資源。目前使用實體的 "
+"%1% 和監控的 %2%。"
 
 #: kded/kded.cpp:147
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
-msgstr ""
+msgstr "提高實體限制"
 
 #: kded/kded.cpp:154
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
-msgstr ""
+msgstr "Inotify 監控能力不足"
 
 #: kded/kded.cpp:157
 #, kde-format
@@ -66,6 +73,8 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
+"您已開啟的應用程式希望監控的檔案數量太多了！當能力用盡時會無法繼續正常監控檔"
+"案變更。您可以關閉一些應用程式或提高限制。目前使用實體的 %1% 和監控的 %2%。"
 
 #: kded/kded.cpp:164
 #, kde-format
@@ -77,9 +86,12 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
+"您已開啟的應用程式希望監控的檔案數量太多了！當能力用盡時會無法繼續正常監控檔"
+"案變更。您的能力無法被提高。請嘗試關閉一些應用程式來回復額外資源。目前使用實"
+"體的 %1% 和監控的 %2%。"
 
 #: kded/kded.cpp:171
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
-msgstr ""
+msgstr "提高監控限制"
