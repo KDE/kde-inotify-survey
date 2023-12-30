@@ -3,6 +3,7 @@
         "Description": "Monitors inotify resources for signs of exhaustion",
         "Description[ca@valencia]": "Controla els recursos d'inotify buscant senyals d'exhauriment",
         "Description[ca]": "Controla els recursos de l'inotify cercant senyals d'exhauriment",
+        "Description[de]": "Überwacht inotify-Ressourcen auf Zeichen von Überlastungen",
         "Description[en_GB]": "Monitors inotify resources for signs of exhaustion",
         "Description[eo]": "Monitoras inotify-rimedojn pri signoj de elĉerpiĝo",
         "Description[es]": "Supervisa los recursos de inotify buscando signos de agotamiento",
