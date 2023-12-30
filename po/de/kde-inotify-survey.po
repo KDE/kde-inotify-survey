@@ -1,6 +1,7 @@
 # German translations for kde-inotify-survey package.
 # Copyright (C) 2022 This file is copyright:
 # This file is distributed under the same license as the kde-inotify-survey package.
+# SPDX-FileCopyrightText: 2023 Johannes Obermayr <johannesobermayr@gmx.de>
 # Automatically generated, 2022.
 #
 msgid ""
@@ -8,20 +9,21 @@ msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:39+0000\n"
-"PO-Revision-Date: 2022-05-11 10:26+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-12-28 22:38+0100\n"
+"Last-Translator: Johannes Obermayr <johannesobermayr@gmx.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.01.85\n"
 
 #: kded/kded.cpp:130
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
-msgstr ""
+msgstr "Geringe Inotify-Instanzenkapazität"
 
 #: kded/kded.cpp:133
 #, kde-format
@@ -32,6 +34,10 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
+"Die geöffneten Anwendungen überwachen zu viele Dateien auf Änderungen. "
+"Sobald die Kapazität ausgereizt ist, wird die weitere Dateiüberwachung nicht "
+"mehr richtig funktionieren. Bitte schließen Sie Anwendungen oder erhöhen die "
+"Kapazität. Zurzeit werden %1 % der Instanzen und %2 % der Dateien überwacht."
 
 #: kded/kded.cpp:140
 #, kde-format
@@ -43,18 +49,23 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
+"Die geöffneten Anwendungen überwachen zu viele Dateien auf Änderungen. "
+"Sobald die Kapazität ausgereizt ist, wird die weitere Dateiüberwachung nicht "
+"mehr richtig funktionieren. Die Kapazität kann nicht erhöht werden. Bitte "
+"schließen Sie Anwendungen, um weitere Ressourcen freizugeben. Zurzeit werden "
+"%1 % der Instanzen und %2 % der Dateien überwacht."
 
 #: kded/kded.cpp:147
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
-msgstr ""
+msgstr "Instanzenlimit erhöhen"
 
 #: kded/kded.cpp:154
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
-msgstr ""
+msgstr "Geringe Inotify-Überwachungskapazität"
 
 #: kded/kded.cpp:157
 #, kde-format
@@ -65,6 +76,10 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
+"Die geöffneten Anwendungen überwachen zu viele Dateien auf Änderungen. "
+"Sobald die Kapazität ausgereizt ist, wird die weitere Dateiüberwachung nicht "
+"mehr richtig funktionieren. Bitte schließen Sie Anwendungen oder erhöhen die "
+"Kapazität. Zurzeit werden %1 Instanzen und %2 Dateien überwacht."
 
 #: kded/kded.cpp:164
 #, kde-format
@@ -76,9 +91,14 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
+"Die geöffneten Anwendungen überwachen zu viele Dateien auf Änderungen. "
+"Sobald die Kapazität ausgereizt ist, wird die weitere Dateiüberwachung nicht "
+"mehr richtig funktionieren. Die Kapazität kann nicht erhöht werden. Bitte "
+"schließen Sie Anwendungen, um weitere Ressourcen freizugeben. Zurzeit werden "
+"%1 Instanzen und %2 Dateien überwacht."
 
 #: kded/kded.cpp:171
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
-msgstr ""
+msgstr "Überwachungslimit (Dateien) erhöhen"
