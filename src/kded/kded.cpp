@@ -53,13 +53,8 @@ public:
             if (context.actionable) {
                 m_notification->setFlags(KNotification::Persistent);
                 const QString authAction = context.authAction; // so we don't need to keep the entire context
-#if QT_VERSION < QT_VERSION_CHECK(6, 0, 0)
-                m_notification->setActions({context.actionLabel});
-                connect(m_notification.data(), &KNotification::activated, this, [this, authAction]() {
-#else
                 auto action = m_notification->addAction(context.actionLabel);
                 connect(action, &KNotificationAction::activated, this, [this, authAction]() {
-#endif
                     m_notification->disconnect(this);
                     m_notification->deleteLater();
 
