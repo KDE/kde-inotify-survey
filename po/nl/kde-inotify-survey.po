@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:39+0000\n"
+"POT-Creation-Date: 2024-01-10 01:36+0000\n"
 "PO-Revision-Date: 2022-05-09 11:29+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
@@ -17,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 22.04.0\n"
 
-#: kded/kded.cpp:130
+#: kded/kded.cpp:125
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Capaciteit voor exemplaren van inotify is laag"
 
-#: kded/kded.cpp:133
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -37,7 +37,7 @@ msgstr ""
 "verhinderen. Ofwel sluit enige toepassingen of verhoog de limiet. Op dit "
 "moment worden %1% exemplaren gebruikt en %2% worden bewaakt."
 
-#: kded/kded.cpp:140
+#: kded/kded.cpp:135
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -53,19 +53,19 @@ msgstr ""
 "toepassingen te sluiten om extra hulpbronnen te herstellen. Op dit moment "
 "worden %1% exemplaren gebruikt en %2% worden bewaakt."
 
-#: kded/kded.cpp:147
+#: kded/kded.cpp:142
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Limiet van exemplaren verhogen"
 
-#: kded/kded.cpp:154
+#: kded/kded.cpp:149
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Bewaking van capaciteit van inotify is laag"
 
-#: kded/kded.cpp:157
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -79,7 +79,7 @@ msgstr ""
 "monitoren verhinderen. Ofwel sluit enige toepassingen of verhoog de limiet. "
 "Op dit moment worden %1% exemplaren gebruikt en %2% worden bewaakt."
 
-#: kded/kded.cpp:164
+#: kded/kded.cpp:159
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -95,7 +95,7 @@ msgstr ""
 "toepassingen te sluiten om extra hulpbronnen te herstellen. Op dit moment "
 "worden %1% exemplaren gebruikt en %2% worden bewaakt."
 
-#: kded/kded.cpp:171
+#: kded/kded.cpp:166
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

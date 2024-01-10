@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:39+0000\n"
+"POT-Creation-Date: 2024-01-10 01:36+0000\n"
 "PO-Revision-Date: 2023-05-02 19:38+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Galician <proxecto@trasno.gal>\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 23.04.0\n"
 
-#: kded/kded.cpp:130
+#: kded/kded.cpp:125
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Quedan poucas instancias libres de inotify"
 
-#: kded/kded.cpp:133
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -38,7 +38,7 @@ msgstr ""
 "Nestes momentos están usándose un %1% das instancias e un %2% das "
 "vixilancias."
 
-#: kded/kded.cpp:140
+#: kded/kded.cpp:135
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -54,19 +54,19 @@ msgstr ""
 "pechar algunhas aplicacións para liberar recursos. Nestes momentos están "
 "usándose un %1% das instancias e un %2% das vixilancias."
 
-#: kded/kded.cpp:147
+#: kded/kded.cpp:142
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Aumentar o límite de instancias"
 
-#: kded/kded.cpp:154
+#: kded/kded.cpp:149
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Quedan poucas vixilancias libres de inotify"
 
-#: kded/kded.cpp:157
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -81,7 +81,7 @@ msgstr ""
 "Nestes momentos están usándose un %1% das instancias e un %2% das "
 "vixilancias."
 
-#: kded/kded.cpp:164
+#: kded/kded.cpp:159
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -97,7 +97,7 @@ msgstr ""
 "pechar algunhas aplicacións para liberar recursos. Nestes momentos están "
 "usándose un %1% das instancias e un %2% das vixilancias."
 
-#: kded/kded.cpp:171
+#: kded/kded.cpp:166
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

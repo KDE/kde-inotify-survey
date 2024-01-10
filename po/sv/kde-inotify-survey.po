@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:39+0000\n"
+"POT-Creation-Date: 2024-01-10 01:36+0000\n"
 "PO-Revision-Date: 2022-05-09 19:00+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -14,13 +14,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 20.08.1\n"
 
-#: kded/kded.cpp:130
+#: kded/kded.cpp:125
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "inotify-instansens kapacitet låg"
 
-#: kded/kded.cpp:133
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -34,7 +34,7 @@ msgstr ""
 "att fungera riktigt. Stäng antingen några program eller öka gränsen. För "
 "närvarande används %1 % av instanser och %2 % av övervakare."
 
-#: kded/kded.cpp:140
+#: kded/kded.cpp:135
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -50,19 +50,19 @@ msgstr ""
 "för att återfå ytterligare resurser. För närvarande används %1 % av "
 "instanser och %2 % av övervakare."
 
-#: kded/kded.cpp:147
+#: kded/kded.cpp:142
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Öka instansgräns"
 
-#: kded/kded.cpp:154
+#: kded/kded.cpp:149
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "inotify övervakningskapacitet låg"
 
-#: kded/kded.cpp:157
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -76,7 +76,7 @@ msgstr ""
 "att fungera riktigt. Stäng antingen några program eller öka gränsen. För "
 "närvarande används %1 % av instanser och %2 % av övervakare."
 
-#: kded/kded.cpp:164
+#: kded/kded.cpp:159
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -92,7 +92,7 @@ msgstr ""
 "för att återfå ytterligare resurser. För närvarande används %1 % av "
 "instanser och %2 % av övervakare."
 
-#: kded/kded.cpp:171
+#: kded/kded.cpp:166
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
