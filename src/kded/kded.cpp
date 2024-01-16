@@ -133,7 +133,7 @@ public Q_SLOTS:
                         QString::number(watchPercent))
                 : i18nc("@info",
                         "You have too many applications wanting to monitor file changes! When the capacity is "
-                        "exhausted it will prevent further file monitoring from working correctly. You capacity cannot "
+                        "exhausted it will prevent further file monitoring from working correctly. Your capacity cannot "
                         "be increased. Try closing some applications to recover additional resources. "
                         "Currently using %1% of instances and %2% of watches.",
                         QString::number(instancePercent),
@@ -157,7 +157,7 @@ public Q_SLOTS:
                         QString::number(watchPercent))
                 : i18nc("@info",
                         "Your open applications want to watch too many files for changes! When the capacity is "
-                        "exhausted it will prevent further file monitoring from working correctly. You capacity cannot "
+                        "exhausted it will prevent further file monitoring from working correctly. Your capacity cannot "
                         "be increased. Try closing some applications to recover additional resources. "
                         "Currently using %1% of instances and %2% of watches.",
                         QString::number(instancePercent),
