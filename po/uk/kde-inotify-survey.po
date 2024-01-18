@@ -2,13 +2,13 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # This file is distributed under the same license as the kde-inotify-survey package.
 #
-# Yuri Chornoivan <yurchor@ukr.net>, 2022.
+# Yuri Chornoivan <yurchor@ukr.net>, 2022, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-17 00:39+0000\n"
-"PO-Revision-Date: 2022-05-09 09:09+0300\n"
+"PO-Revision-Date: 2024-01-17 22:10+0200\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "Language: uk\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
 "%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Lokalize 20.12.0\n"
+"X-Generator: Lokalize 23.04.1\n"
 
 #: kded/kded.cpp:125
 #, kde-format
@@ -40,14 +40,7 @@ msgstr ""
 "значення обмеження. Зараз використано %1% екземплярів та %2% спостережень."
 
 #: kded/kded.cpp:135
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "You have too many applications wanting to monitor file changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "You have too many applications wanting to monitor file changes! When the "
@@ -90,14 +83,7 @@ msgstr ""
 "та %2% спостережень."
 
 #: kded/kded.cpp:159
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "Your open applications want to watch too many files for changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "Your open applications want to watch too many files for changes! When the "

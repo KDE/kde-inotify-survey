@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-17 00:39+0000\n"
-"PO-Revision-Date: 2022-05-23 05:31+0200\n"
+"PO-Revision-Date: 2024-01-17 05:32+0100\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <kde-i18n-doc@kde.org>\n"
 "Language: ka\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #: kded/kded.cpp:125
 #, kde-format
@@ -39,14 +39,7 @@ msgstr ""
 "გამოიყენება გაშვებული ასლები: %1% და მაყურებლები %2%."
 
 #: kded/kded.cpp:135
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "You have too many applications wanting to monitor file changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "You have too many applications wanting to monitor file changes! When the "
@@ -55,11 +48,11 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
-"თქვენ გაქვთ ძალიან ბევრი აპლიკაცია, რომლებსაც ფაილის ცვლილებების მონიტორინგი "
-"სურთ! როდესაც რესურსები ამოიწურება, ეს ფაილების მონიტორინგის სწორად მუშაობას "
-"ხელს შეუშლის.მოცულობის გაზრდა შეუძლებელია. რესურსების გამოსათავისუფლებლად "
-"დახურეთ ზოგიერთი აპლიკაცია. ამჟამად გამოიყენება გაშვებული ასლები: %1% და "
-"მაყურებლები %2%."
+"გაქვთ მეტისმეტად ბევრი აპლიკაცია, რომლებსაც ფაილის ცვლილებების თვალყურის "
+"დევნება სურს! როცა შესაძლებლობები ამოიწურება, ის ხელს შეუშლის ფაილის "
+"თვალყურის დევნების სწორად მუშაობას. მოცულობას ვერ გაზრდით. სცადეთ, დახურთ "
+"ზოგიერთი აპლიკაცია, რომ რესურსები გაათავისუფლოთ. ამჟამად გამოიყენება %1% "
+"გაშვებულ ასლი და %2% მაყურებელი."
 
 #: kded/kded.cpp:142
 #, kde-format
@@ -88,14 +81,7 @@ msgstr ""
 "გაშვებული ასლები: %1% და მაყურებლები %2%."
 
 #: kded/kded.cpp:159
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "Your open applications want to watch too many files for changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "Your open applications want to watch too many files for changes! When the "
@@ -104,10 +90,11 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
-"თქვენ გაქვთ ძალიან ბევრი აპლიკაცია, რომლებსაც ფაილის ტყრევა ყურება სურთ! "
-"როდესაც რესურსები ამოიწურება, ეს ფაილების ყურებას სწორად მუშაობას ხელს "
-"შეუშლის . დახურეთ ზოგიერთი აპლიკაცია ან გაზარდეთ ლიმიტი. ამჟამად გამოიყენება "
-"გაშვებული ასლები: %1% და მაყურებლები %2%."
+"თქვენს ღია აპლიკაციებს მეტისმეტად ბევრი ფაილის ცვლილებების თვალყური სურს! "
+"როცა შესაძლებლობები ამოიწურება, ის ხელს შეუშლის ფაილის თვალყურის დევნების "
+"სწორად მუშაობას. მოცულობას ვერ გაზრდით. სცადეთ, დახურთ ზოგიერთი აპლიკაცია, "
+"რომ რესურსები გაათავისუფლოთ. ამჟამად გამოიყენება %1% გაშვებულ ასლი და %2% "
+"მაყურებელი."
 
 #: kded/kded.cpp:166
 #, kde-format
