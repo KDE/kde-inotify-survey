@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the kde-inotify-survey package.
 #
 # Automatically generated, 2022.
-# Eloy Cuadra <ecuadra@eloihr.net>, 2022.
+# SPDX-FileCopyrightText: 2022, 2024 Eloy Cuadra <ecuadra@eloihr.net>
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-17 00:39+0000\n"
-"PO-Revision-Date: 2022-05-09 13:57+0200\n"
+"PO-Revision-Date: 2024-01-18 21:00+0100\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 22.04.0\n"
+"X-Generator: Lokalize 23.08.4\n"
 
 #: kded/kded.cpp:125
 #, kde-format
@@ -34,21 +34,14 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
-"Tiene demasiadas aplicaciones que desean supervisar cambios en archivos. El "
+"Tiene demasiadas aplicaciones que quieren supervisar cambios en archivos. El "
 "agotamiento de esta capacidad impedirá que funcione correctamente la "
 "supervisión de más archivos. Cierre algunas aplicaciones o aumente el "
-"límite. En la actualidad se está usando el %1% de instancias y el %2% de "
+"límite. En la actualidad se está usando el %1 % de instancias y el %2 % de "
 "observaciones."
 
 #: kded/kded.cpp:135
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "You have too many applications wanting to monitor file changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "You have too many applications wanting to monitor file changes! When the "
@@ -57,11 +50,11 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
-"Tiene demasiadas aplicaciones que desean supervisar cambios en archivos. El "
+"Tiene demasiadas aplicaciones que quieren supervisar cambios en archivos. El "
 "agotamiento de esta capacidad impedirá que funcione correctamente la "
-"supervisión de más archivos.. La capacidad no se puede aumentar. Pruebe a "
+"supervisión de más archivos. Esta capacidad no se puede aumentar. Pruebe a "
 "cerrar algunas aplicaciones para recuperar recursos adicionales. En la "
-"actualidad se está usando el %1% de instancias y el %2% de observaciones."
+"actualidad se está usando el %1 % de instancias y el %2 % de observaciones."
 
 #: kded/kded.cpp:142
 #, kde-format
@@ -84,21 +77,14 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
-"Las aplicaciones que tiene abiertas desean observar cambios en demasiados "
+"Las aplicaciones que tiene abiertas quieren observar cambios en demasiados "
 "archivos. El agotamiento de esta capacidad impedirá que funcione "
 "correctamente la supervisión de más archivos. Cierre algunas aplicaciones o "
-"aumente el límite. En la actualidad se está usando el %1% de instancias y el "
-"%2% de observaciones."
+"aumente el límite. En la actualidad se está usando el %1 % de instancias y "
+"el %2 % de observaciones."
 
 #: kded/kded.cpp:159
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "Your open applications want to watch too many files for changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "Your open applications want to watch too many files for changes! When the "
@@ -107,11 +93,11 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
-"Las aplicaciones que tiene abiertas desean observar cambios en demasiados "
+"Las aplicaciones que tiene abiertas quieren observar cambios en demasiados "
 "archivos. El agotamiento de esta capacidad impedirá que funcione "
-"correctamente la supervisión de más archivos. La capacidad no se puede "
+"correctamente la supervisión de más archivos. Esta capacidad no se puede "
 "aumentar. Pruebe a cerrar algunas aplicaciones para recuperar recursos "
-"adicionales. En la actualidad se está usando el %1% de instancias y el %2% "
+"adicionales. En la actualidad se está usando el %1 % de instancias y el %2 % "
 "de observaciones."
 
 #: kded/kded.cpp:166
