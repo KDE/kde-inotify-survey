@@ -1,13 +1,13 @@
-# Copyright (C) YEAR This file is copyright:
+# Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the kde-inotify-survey package.
 #
-# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2022, 2024 Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-17 00:39+0000\n"
-"PO-Revision-Date: 2022-08-28 20:35+0200\n"
+"PO-Revision-Date: 2024-01-21 08:46+0100\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 23.08.4\n"
 
 #: kded/kded.cpp:125
 #, kde-format
@@ -39,14 +39,7 @@ msgstr ""
 "tę liczbę graniczną. Obecnie używanych jest %1% wystąpień oraz %2% śledzeń."
 
 #: kded/kded.cpp:135
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "You have too many applications wanting to monitor file changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "You have too many applications wanting to monitor file changes! When the "
@@ -55,11 +48,11 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
-"Masz zbyt wiele aplikacji chcących śledzić zmiany w plikach! Gdy zasobność "
-"zostanie wyczerpana, to dalsze śledzenie plików będzie działać "
-"nieprawidłowo. Aby temu zaradzić, nie możesz zwiększyć liczby granicznej. "
-"Zamknij niektóre z aplikacji, aby odzyskać zasoby. Obecnie używanych jest "
-"%1% wystąpień oraz %2% śledzeń."
+"Masz zbyt wiele aplikacji chcących śledzić zmiany w plikach! Gdy wyczerpiesz "
+"dozwoloną liczbę śledzonych plików, to ich dalsze śledzenie przestanie "
+"działać poprawnie. Nie możesz zwiększyć tej liczby. Spróbuj zamknąć kilka "
+"aplikacji, aby odzyskać zasoby. Obecnie używanych jest %1% wystąpień oraz "
+"%2% śledzeń."
 
 #: kded/kded.cpp:142
 #, kde-format
@@ -88,14 +81,7 @@ msgstr ""
 "tę liczbę graniczną. Obecnie używanych jest %1% wystąpień oraz %2% śledzeń."
 
 #: kded/kded.cpp:159
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "Your open applications want to watch too many files for changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "Your open applications want to watch too many files for changes! When the "

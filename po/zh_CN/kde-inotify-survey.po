@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-17 00:39+0000\n"
-"PO-Revision-Date: 2024-01-13 06:00\n"
+"PO-Revision-Date: 2024-01-21 14:12\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -38,14 +38,7 @@ msgstr ""
 "实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:135
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "You have too many applications wanting to monitor file changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "You have too many applications wanting to monitor file changes! When the "
@@ -55,8 +48,8 @@ msgid ""
 "watches."
 msgstr ""
 "请求监视文件更改的应用程序过多。当请求数量达到上限后，后续新增的文件监视请求"
-"将无法正确工作。您无法提高请求数量的上限。请尝试关闭一些应用程序以释放资源。"
-"当前正在使用 %1% 的实例数量，%2% 的监视数量。"
+"将无法正确工作。请求数量的上限无法提高。请尝试关闭一些应用程序以释放资源。当"
+"前正在使用 %1% 的实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:142
 #, kde-format
@@ -84,14 +77,7 @@ msgstr ""
 "正在使用 %1% 的实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:159
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "Your open applications want to watch too many files for changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "Your open applications want to watch too many files for changes! When the "
@@ -101,8 +87,8 @@ msgid ""
 "watches."
 msgstr ""
 "当前打开的应用程序正在监视更改的文件数量过多。当请求数量达到上限后，后续新增"
-"的文件监视请求将无法正确工作。您无法提高请求数量的上限。请尝试关闭一些应用程"
-"序以释放资源。当前正在使用 %1% 的实例数量，%2% 的监视数量。"
+"的文件监视请求将无法正确工作。请求数量的上限无法提高。请尝试关闭一些应用程序"
+"以释放资源。当前正在使用 %1% 的实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:166
 #, kde-format
