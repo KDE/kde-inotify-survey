@@ -1,0 +1,103 @@
+# Copyright (C) 2024 This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# SPDX-FileCopyrightText: 2024 Toms Trasuns <toms.trasuns@posteo.net>
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"PO-Revision-Date: 2024-02-23 16:10+0200\n"
+"Last-Translator: Toms Trasuns <toms.trasuns@posteo.net>\n"
+"Language-Team: Latvian <kde-i18n-doc@kde.org>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Lokalize 23.08.5\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Zema „Inotify“ instanču kapacitāte"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Datņu izmaiņas vēlas pārraudzīt pārāk liels programmu skaits! Kad vairs "
+"nebūs pieejama brīva kapacitāte, datņu pārraudzība vairs nevarēs korekti "
+"notikt. Vai nu aizveriet kādu ko šīm programmām, vai arī palieliniet limitu. "
+"Šobrīd izmanto %1% no instancēm un %2% no pārraudzības resursiem."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Datņu izmaiņas vēlas pārraudzīt pārāk liels programmu skaits! Kad vairs "
+"nebūs pieejama brīva kapacitāte, datņu pārraudzība vairs nevarēs korekti "
+"notikt. Šo kapacitāti nevar palielināt. Mēģiniet aizvērt kādas no šīm "
+"programmām, lai iegūtu vairāk brīvu resursu. Šobrīd izmanto %1% no instancēm "
+"un %2% no pārraudzības resursiem."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Palielināt instanču limitu"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "„Inotify“ pārraudzības kapacitāte ir zema"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Sistēmā atvērtās programmās mēģina pārraudzīt izmaiņas pārāk daudzās datnēs! "
+"Kad vairs nebūs pieejama brīva kapacitāte, datņu pārraudzība vairs nevarēs "
+"korekti notikt. Vai nu aizveriet kādu ko šīm programmām, vai arī palieliniet "
+"limitu. Šobrīd izmanto %1% no instancēm un %2% no pārraudzības resursiem."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Sistēmā atvērtās programmās mēģina pārraudzīt izmaiņas pārāk daudzās datnēs! "
+"Kad vairs nebūs pieejama brīva kapacitāte, datņu pārraudzība vairs nevarēs "
+"korekti notikt. Šo kapacitāti nevar palielināt. Mēģiniet aizvērt kādas no "
+"šīm programmām, lai iegūtu vairāk brīvu resursu. Šobrīd izmanto %1% no "
+"instancēm un %2% no pārraudzības resursiem."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Palielināt pārraudzības limitu"
