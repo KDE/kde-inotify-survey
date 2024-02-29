@@ -25,6 +25,7 @@
   <name xml:lang="nl">Overzicht van inotify</name>
   <name xml:lang="pl">Odpytywanie inotify</name>
   <name xml:lang="pt">Questionário do inotify</name>
+  <name xml:lang="ro">Chestionar inotify</name>
   <name xml:lang="ru">Опрос inotify</name>
   <name xml:lang="sl">inotify Survey</name>
   <name xml:lang="sv">inotify-kartläggning</name>
@@ -51,6 +52,7 @@
   <summary xml:lang="nl">Inspecteert de status van het systeem inotify</summary>
   <summary xml:lang="pl">Odpytuje o stan inotify na systemie</summary>
   <summary xml:lang="pt">Questiona o estado do 'inotify' no sistema</summary>
+  <summary xml:lang="ro">Verifică starea inotify a sistemului</summary>
   <summary xml:lang="ru">Опрос состояния inotify системы</summary>
   <summary xml:lang="sl">Anketa stanja sistema inotify</summary>
   <summary xml:lang="sv">Kartlägger systemets inotify-tillstånd</summary>
@@ -78,6 +80,7 @@
     <p xml:lang="nl">Hebt u zich ooit afgevraagd waarom Dolphin of elke andere toepassing is gestopt het opmerken van wijzigingen in bestanden? Er is dan kans dat u geen hulpbronnen meer voor inotify had. kde-inotify-survey kan u redden! Bevat een KDED-module om u te vertellen wanneer zaken verkeerd gaan en een CLI-hulpmiddel om de stand van zaken te inspecteren.</p>
     <p xml:lang="pl">Zastanawiałeś się kiedyś dlaczego Dolphin, czy inne aplikacje przestały zauważać zmiany w plikach? Powodem mogło być wyczerpanie zasobów inotify. kde-inotify-survey przychodzi na pomoc! Zawiera człon KDED, który ostrzega, gdy rzeczy zaczną iść niewłaściwie i narzędzie CLI do sprawdzania tego nadchodzącego stanu wcześniej.</p>
     <p xml:lang="pt">Já se questionou porque o Dolphin ou outra aplicação qualquer deixou de reparar nas alterações dos ficheiros? É provável que tenha ficado sem recursos do 'inotify'. O 'kde-inotify-survey' é o salvador! Oferece um módulo do KDED para lhe indicar quando os problemas começam a aparecer e uma ferramenta da linha de comandos para inspeccionar o estado das coisas.</p>
+    <p xml:lang="ro">V-ați întrebat vreodată de ce Dolphin sau alte aplicații încetează să observe modificările asupra fișierelor? Este posibil să fi rămas fără resurse „inotify”. kde-inotify-survey vă vine în ajutor! Oferind un modul KDED ce vă spune când lucrurile iau o întorsătură nedorită, și o unealtă în linie de comandă pentru inspectarea stării de fapt a lucrurilor.</p>
     <p xml:lang="ru">Иногда Dolphin или какая-либо другая программа перестают замечать изменения в файлах. Обычно дело в истощении ресурсов inotify. Программа kde-inotify-survey позволяет разобраться с этим вопросом. В состав пакета включен модуль KDED, который сообщит о проблеме, и инструмент командной строки для изучения положения вещей.</p>
     <p xml:lang="sl">Ali ste se kdaj vprašali, zakaj je Dolphin ali katera druga aplikacija prenehala zaznavati spremembe datotek? Možno je, da ste porabili vse vire za inotify. Na pomoč kde-inotify-survey! To je športni modul KDED, ki vam pove, kdaj so stvari postale nepredvidljive in ukazno orodje za pregled stanja.</p>
     <p xml:lang="sv">Har du någonsin undrat över varför Dolphin eller något annat program slutade märka ändringar av filer? Chansen är stor att du fick slut på inotify-resurser. Verktyget kde-inotify-survey kan vara räddningen! Det ståtar med en KDED-modul för att tala om för dig när saker och ting håller på att bli nyckfulla, och ett kommandoradsverktyg för att inspektera situationen.</p>
@@ -108,6 +111,7 @@
   <developer_name xml:lang="nn">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="pl">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="pt">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="ro">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="ru">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="sk">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="sl">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
