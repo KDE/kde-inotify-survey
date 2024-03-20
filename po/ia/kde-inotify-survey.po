@@ -1,0 +1,102 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# giovanni <g.sora@tiscali.it>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-10 01:36+0000\n"
+"PO-Revision-Date: 2024-03-19 11:31+0100\n"
+"Last-Translator: giovanni <g.sora@tiscali.it>\n"
+"Language-Team: Interlingua <kde-i18n-doc@kde.org>\n"
+"Language: ia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.12.3\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Basse Capacitate de Instantia de Inotify"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Tu ha troppe applicationes que vole monitorar cambiamentos de file! Quando "
+"le capacitate es exhaustite il prevenira ulterior monitorar ab laborar "
+"correctemente. O tu claude alcun applicationes o augmenta le limite. "
+"Currentemente il es usante %1% de instantias e %2% de observationes."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Tu ha troppe applicationes que vole monitorar cambiamentos de file! Quando "
+"le capacitate es exhaustite il prevenira ulterior monitorar ab laborar "
+"correctemente Tu capacitate non pote esser augmentate. Tu essaya clauder "
+"alcun applicationes per recuperar ressources additional. Currentemente il es "
+"usante %1% de instantias e %2% de observationes."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Augmenta Limite de Instantia"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Basse Capacitate de Observation de Inotify"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Tu applicationes aperite vole observar troppe file per cambiamentos! Quando "
+"le capacitate es exhaustite il prevenira ulterior monitorar ab laborar "
+"correctemente. O tu claude alcun applicationes o augmenta le limite. "
+"Currentemente il es usante %1% de instantias e %2% de observationes."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. You capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Tu applicationes aperite vole observartroppe files per cambiamentos! Quando "
+"le capacitate es exhaustite il prevenira ulterior monitorar ab laborar "
+"correctemente Tu capacitate non pote esser augmentate. Tu essaya clauder "
+"alcun applicationes per recuperar ressources additional. Currentemente il es "
+"usante %1% de instantias e %2% de observationes."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Augmenta limite de observation "
