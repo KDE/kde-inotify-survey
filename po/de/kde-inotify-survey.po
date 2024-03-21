@@ -1,7 +1,7 @@
 # German translations for kde-inotify-survey package.
 # Copyright (C) 2022 This file is copyright:
 # This file is distributed under the same license as the kde-inotify-survey package.
-# SPDX-FileCopyrightText: 2023 Johannes Obermayr <johannesobermayr@gmx.de>
+# SPDX-FileCopyrightText: 2023, 2024 Johannes Obermayr <johannesobermayr@gmx.de>
 # Automatically generated, 2022.
 #
 msgid ""
@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-17 00:39+0000\n"
-"PO-Revision-Date: 2023-12-28 22:38+0100\n"
+"PO-Revision-Date: 2024-03-20 20:53+0100\n"
 "Last-Translator: Johannes Obermayr <johannesobermayr@gmx.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.01.85\n"
+"X-Generator: Lokalize 24.02.0\n"
 
 #: kded/kded.cpp:125
 #, kde-format
@@ -40,14 +40,7 @@ msgstr ""
 "Kapazität. Zurzeit werden %1 % der Instanzen und %2 % der Dateien überwacht."
 
 #: kded/kded.cpp:135
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "You have too many applications wanting to monitor file changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "You have too many applications wanting to monitor file changes! When the "
@@ -89,14 +82,7 @@ msgstr ""
 "Kapazität. Zurzeit werden %1 Instanzen und %2 Dateien überwacht."
 
 #: kded/kded.cpp:159
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid ""
-#| "Your open applications want to watch too many files for changes! When the "
-#| "capacity is exhausted it will prevent further file monitoring from "
-#| "working correctly. You capacity cannot be increased. Try closing some "
-#| "applications to recover additional resources. Currently using %1% of "
-#| "instances and %2% of watches."
+#, kde-format
 msgctxt "@info"
 msgid ""
 "Your open applications want to watch too many files for changes! When the "
