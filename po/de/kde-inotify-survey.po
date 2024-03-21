@@ -1,7 +1,7 @@
 # German translations for kde-inotify-survey package.
 # Copyright (C) 2022 This file is copyright:
 # This file is distributed under the same license as the kde-inotify-survey package.
-# SPDX-FileCopyrightText: 2023 Johannes Obermayr <johannesobermayr@gmx.de>
+# SPDX-FileCopyrightText: 2023, 2024 Johannes Obermayr <johannesobermayr@gmx.de>
 # Automatically generated, 2022.
 #
 msgid ""
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.01.85\n"
+"X-Generator: Lokalize 24.02.0\n"
 
 #: kded/kded.cpp:125
 #, kde-format
