@@ -1,0 +1,98 @@
+# Copyright (C) 2024 This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# SPDX-FileCopyrightText: 2024 Yaron Shahrabani <sh.yaron@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"PO-Revision-Date: 2024-03-25 20:54+0200\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: צוות התרגום של KDE ישראל\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.08.5\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "קיבולת מופעי ה־Inotify נמוכה"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"יש לך יותר מדי יישומים שרוצים לעקוב אחר שינויים בקבצים! כאשר הקיבולת מנוצלת "
+"עד תום המעקב אחר הקבצים לא יעבוד כראוי. כדאי לסגור כמה מהיישומים או להגדיל "
+"את המגבלה. כרגע %1% מהמופעים ו־%2% מהמעקבים מנוצלים."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"יש לך יותר מדי יישומים שרוצים לעקוב אחר שינויים בקבצים! כאשר הקיבולת מנוצלת "
+"עד תום המעקב אחר הקבצים לא יעבוד כראוי. אי אפשר להגדיל את הקיבולת שלך. כדאי "
+"לסגור כמה  מהיישומים או לשחרר משאבים נוספים. כרגע %1% מהמופעים ו־%2% "
+"מהמעקבים מנוצלים."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "הגדלת מגבלת מופעים"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "קיבולת מעקבי ה־Inotify נמוכה"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"היישומים הפתוחים שלך רוצים לעקוב אחר שינויים ביותר מדי קבצים! כאשר הקיבולת "
+"מנוצלת עד תום המעקב אחר הקבצים לא יעבוד כראוי. כדאי לסגור כמה מהיישומים או "
+"להגדיל את המגבלה. כרגע %1% מהמופעים ו־%2% מהמעקבים מנוצלים."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"היישומים הפתוחים שלך רוצים לעקוב אחר שינויים ביותר מדי קבצים! כאשר הקיבולת "
+"מנוצלת עד תום המעקב אחר הקבצים לא יעבוד כראוי. אי אפשר להגדיל את הקיבולת "
+"שלך. כדאי לסגור כמה  מהיישומים או לשחרר משאבים נוספים. כרגע %1% מהמופעים ו־"
+"%2% מהמעקבים מנוצלים."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "הגדלת מגבלת מעקב"
