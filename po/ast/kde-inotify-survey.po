@@ -1,28 +1,27 @@
+# Copyright (C) 2024 This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# SPDX-FileCopyrightText: 2024 Enol P. <enolp@softastur.org>
 msgid ""
 msgstr ""
-"Project-Id-Version: kdeorg\n"
+"Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-17 00:39+0000\n"
-"PO-Revision-Date: 2024-03-27 19:45\n"
-"Last-Translator: \n"
-"Language-Team: Chinese Simplified\n"
-"Language: zh_CN\n"
+"PO-Revision-Date: 2024-03-27 22:22+0100\n"
+"Last-Translator: Enol P. <enolp@softastur.org>\n"
+"Language-Team: Asturian <alministradores@softastur.org>\n"
+"Language: ast_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Crowdin-Project: kdeorg\n"
-"X-Crowdin-Project-ID: 269464\n"
-"X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: /kf6-trunk/messages/kde-inotify-survey/kde-inotify-survey."
-"pot\n"
-"X-Crowdin-File-ID: 49264\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 24.02.1\n"
 
 #: kded/kded.cpp:125
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
-msgstr "Inotify 实例数量接近上限"
+msgstr ""
 
 #: kded/kded.cpp:128
 #, kde-format
@@ -33,9 +32,6 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
-"请求监视文件更改的应用程序过多。当请求数量达到上限后，后续新增的文件监视请求"
-"将无法正确工作。请关闭一些应用程序，或者提高监视数量上限。当前正在使用 %1% 的"
-"实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:135
 #, kde-format
@@ -47,21 +43,18 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
-"请求监视文件更改的应用程序过多。当请求数量达到上限后，后续新增的文件监视请求"
-"将无法正确工作。请求数量的上限无法提高。请尝试关闭一些应用程序以释放资源。当"
-"前正在使用 %1% 的实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:142
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
-msgstr "提高实例数量限制"
+msgstr ""
 
 #: kded/kded.cpp:149
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
-msgstr "Inotify 监视数量接近上限"
+msgstr ""
 
 #: kded/kded.cpp:152
 #, kde-format
@@ -72,9 +65,6 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
-"当前打开的应用程序正在监视更改的文件数量过多。当请求数量达到上限后，后续新增"
-"的文件监视请求将无法正确工作。请关闭一些应用程序，或者提高监视数量上限。当前"
-"正在使用 %1% 的实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:159
 #, kde-format
@@ -86,12 +76,9 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
-"当前打开的应用程序正在监视更改的文件数量过多。当请求数量达到上限后，后续新增"
-"的文件监视请求将无法正确工作。请求数量的上限无法提高。请尝试关闭一些应用程序"
-"以释放资源。当前正在使用 %1% 的实例数量，%2% 的监视数量。"
 
 #: kded/kded.cpp:166
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
-msgstr "提高监视数量限制"
+msgstr ""
