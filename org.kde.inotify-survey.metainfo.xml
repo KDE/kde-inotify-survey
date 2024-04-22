@@ -100,6 +100,7 @@
     <p xml:lang="zh-TW">您是否曾經疑惑過為什麼 Dolphin 或其他任何應用程式沒辦法繼續發現檔案變更？這很可能代表您用盡了 inotify 資源。kde-inotify-survey 會幫助您！它提供一個 KDED 模組來告訴您資源即將用盡，也有一個命令列工具讓您檢查 inotify 的狀態。</p>
   </description>
   <project_group>KDE</project_group>
+  <url type="homepage">https://kde.org</url>
   <developer_name>Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="ca">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="ca-valencia">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
