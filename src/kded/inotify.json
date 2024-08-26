@@ -21,6 +21,7 @@
         "Description[nl]": "Monitort hulpbronnen van inotify op tekenen van uitputting",
         "Description[pl]": "Monitoruje zasoby inotify na wypadek ich wyczerpania",
         "Description[pt]": "Monitoriza os recursos do Inotify para detectar sinais do seu esgotamento",
+        "Description[pt_BR]": "Monitora os recursos do inotify para sinais de exaustão",
         "Description[ro]": "Monitorizează resurse inotify pentru semne de epuizare",
         "Description[ru]": "Отслеживает признаки истощения ресурсов inotify",
         "Description[sl]": "Nadzoruje vire inotify za znaki izčrpavanja",
