@@ -1,0 +1,103 @@
+# Copyright (C) 2024 This file is copyright:
+# This file is distributed under the same license as the kde-inotify-survey package.
+#
+# SPDX-FileCopyrightText: 2024 joserafael <joserafaeltic@riseup.net>
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"PO-Revision-Date: 2024-11-15 14:19-0300\n"
+"Last-Translator: joserafael <joserafaeltic@riseup.net>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 24.08.3\n"
+
+#: kded/kded.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Capacidade de instância do inotify baixa"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Há muitos aplicativos querendo monitorar as alterações nos arquivos! Quando "
+"a capacidade se esgotar, isso impedirá que o monitoramento de arquivos "
+"continue funcionando corretamente. Feche alguns aplicativos ou aumente o "
+"limite. Atualmente usando %1% das instâncias e %2% dos relógios."
+
+#: kded/kded.cpp:135
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Há muitos aplicativos querendo monitorar as alterações nos arquivos! Quando "
+"a capacidade se esgotar, isso impedirá que o monitoramento de arquivos "
+"funcione corretamente. Sua capacidade não pode ser aumentada. Tente fechar "
+"alguns aplicativos para recuperar recursos adicionais. Atualmente usando %1% "
+"das instâncias e %2% dos relógios."
+
+#: kded/kded.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Aumentar o limite de instâncias"
+
+#: kded/kded.cpp:149
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Capacidade baixa do relógio Inotify"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Seus aplicativos abertos querem observar muitos arquivos em busca de "
+"alterações! Quando a capacidade se esgotar, isso impedirá que o "
+"monitoramento de arquivos adicionais funcione corretamente. Feche alguns "
+"aplicativos ou aumente o limite. Atualmente usando %1% das instâncias e %2% "
+"dos relógios."
+
+#: kded/kded.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Seus aplicativos abertos querem monitorar muitos arquivos para alterações! "
+"Quando a capacidade estiver esgotada, isso impedirá que o monitoramento de "
+"arquivos funcione corretamente. Sua capacidade não pode ser aumentada. Tente "
+"fechar alguns aplicativos para recuperar recursos adicionais. Atualmente "
+"usando %1% das instâncias e %2% dos relógios."
+
+#: kded/kded.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Aumentar o limite do relógio"
