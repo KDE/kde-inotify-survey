@@ -20,7 +20,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
-msgstr ""
+msgstr "Inotify उदाहरणक्षमता न्यूनम्"
 
 #: kded/kded.cpp:128
 #, kde-format
@@ -31,6 +31,10 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
+"भवतः समीपे अत्यधिकाः अनुप्रयोगाः सन्ति ये सञ्चिकापरिवर्तनस्य निरीक्षणं कर्तुम् इच्छन्ति! यदा "
+"क्षमता क्षीणा भवति तदा अग्रे सञ्चिकानिरीक्षणं सम्यक् कार्यं कर्तुं न शक्नोति । केचन "
+"अनुप्रयोगाः बन्दं कुर्वन्तु अथवा सीमां वर्धयन्तु। सम्प्रति %1% उदाहरणानि %2% च घडिकाः "
+"उपयुज्यन्ते ।"
 
 #: kded/kded.cpp:135
 #, kde-format
@@ -42,18 +46,22 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
+"भवतः समीपे अत्यधिकाः अनुप्रयोगाः सन्ति ये सञ्चिकापरिवर्तनस्य निरीक्षणं कर्तुम् इच्छन्ति! यदा "
+"क्षमता समाप्तं भवति तदा अग्रे सञ्चिकानिरीक्षणं सम्यक् कार्यं कर्तुं न शक्नोति । भवतः क्षमता "
+"वर्धयितुं न शक्यते। अतिरिक्तसंसाधनं पुनः प्राप्तुं केचन अनुप्रयोगाः बन्दं कर्तुं प्रयतध्वम्। सम्प्रति "
+"%1% उदाहरणानि %2% च घडिकाः उपयुज्यन्ते ।"
 
 #: kded/kded.cpp:142
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
-msgstr ""
+msgstr "उदाहरणसीमा वर्धयतु"
 
 #: kded/kded.cpp:149
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
-msgstr ""
+msgstr "Inotify Watch क्षमता न्यूनम्"
 
 #: kded/kded.cpp:152
 #, kde-format
@@ -64,6 +72,9 @@ msgid ""
 "correctly. Either close some applications or increase the limit. Currently "
 "using %1% of instances and %2% of watches."
 msgstr ""
+"भवतः मुक्त-अनुप्रयोगाः परिवर्तनार्थं बहु-सञ्चिकाः द्रष्टुम् इच्छन्ति! यदा क्षमता क्षीणा भवति "
+"तदा अग्रे सञ्चिकानिरीक्षणं सम्यक् कार्यं कर्तुं न शक्नोति । केचन अनुप्रयोगाः बन्दं कुर्वन्तु अथवा "
+"सीमां वर्धयन्तु। सम्प्रति %1% उदाहरणानि %2% च घडिकाः उपयुज्यन्ते ।"
 
 #: kded/kded.cpp:159
 #, kde-format
@@ -75,9 +86,13 @@ msgid ""
 "to recover additional resources. Currently using %1% of instances and %2% of "
 "watches."
 msgstr ""
+"भवतः मुक्त-अनुप्रयोगाः परिवर्तनार्थं बहु-सञ्चिकाः द्रष्टुम् इच्छन्ति! यदा क्षमता क्षीणा भवति "
+"तदा अग्रे सञ्चिकानिरीक्षणं सम्यक् कार्यं कर्तुं न शक्नोति । भवतः क्षमता वर्धयितुं न शक्यते। "
+"अतिरिक्तसंसाधनं पुनः प्राप्तुं केचन अनुप्रयोगाः बन्दं कर्तुं प्रयतध्वम्। सम्प्रति %1% उदाहरणानि "
+"%2% च घडिकाः उपयुज्यन्ते ।"
 
 #: kded/kded.cpp:166
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
-msgstr ""
+msgstr "Watch Limit वर्धयन्तु"
