@@ -1,6 +1,7 @@
 {
     "KPlugin": {
         "Description": "Monitors inotify resources for signs of exhaustion",
+        "Description[ar]": "مراقبة موارد inotify بحثًا عن علامات الاستنفاد",
         "Description[ca@valencia]": "Controla els recursos d'inotify buscant senyals d'exhauriment",
         "Description[ca]": "Controla els recursos de l'inotify cercant senyals d'exhauriment",
         "Description[de]": "Überwacht inotify-Ressourcen auf Zeichen von Überlastungen",
@@ -33,6 +34,7 @@
         "Description[zh_CN]": "监视 inotify 资源是否即将耗尽",
         "Description[zh_TW]": "監控 inotify 資源是否即將用盡",
         "Name": "inotify",
+        "Name[ar]": "inotify",
         "Name[ca@valencia]": "inotify",
         "Name[ca]": "inotify",
         "Name[cs]": "inotify",
