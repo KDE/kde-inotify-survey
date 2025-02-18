@@ -3,6 +3,7 @@
 [Global]
 IconName=show_table_column
 Name=inotify
+Name[ar]=inotify
 Name[ca]=inotify
 Name[ca@valencia]=inotify
 Name[cs]=inotify
@@ -39,6 +40,7 @@ Name[x-test]=xxinotifyxx
 Name[zh_CN]=inotify
 Name[zh_TW]=inotify
 Comment=Warnings about inotify capacity problems
+Comment[ar]=تحذيرات بشأن مشاكل سعة inotify
 Comment[ca]=Avisos quant als problemes de capacitat de l'inotify
 Comment[ca@valencia]=Avisos quant als problemes de capacitat d'inotify
 Comment[de]=Warnungen zu inotify-Kapazitätsproblemen
@@ -74,6 +76,7 @@ Comment[zh_TW]=關於 inotify 能力問題的警告
 
 [Event/inotifyinstancelow]
 Name=Inotify Instances Capacity Low
+Name[ar]=سعة مثيلات Inotify منخفضة
 Name[ca]=Baixa capacitat d'instàncies de l'inotify
 Name[ca@valencia]=Baixa la capacitat d'instàncies d'inotify
 Name[de]=Geringe Inotify-Instanzenkapazität
@@ -107,6 +110,7 @@ Name[x-test]=xxInotify Instances Capacity Lowxx
 Name[zh_CN]=Inotify 实例数量接近上限
 Name[zh_TW]=Inotify 實體能力不足
 Comment=Available amount of inotify instances is low
+Comment[ar]=العدد المتاح من حالات inotify منخفض
 Comment[ca]=La quantitat disponible d'instàncies de l'inotify és baixa
 Comment[ca@valencia]=La quantitat disponible d'instàncies d'inotify és baixa
 Comment[de]=Die Anzahl der weiteren inotify-Instanzen ist gering
@@ -143,6 +147,7 @@ Action=Popup
 
 [Event/inotifywatchlow]
 Name=Inotify Watch Capacity Low
+Name[ar]=سعة مراقبة Inotify منخفضة
 Name[ca]=Baixa capacitat de vigilància de l'inotify
 Name[ca@valencia]=Baixa la capacitat de vigilància d'inotify
 Name[de]=Geringe Inotify-Überwachungskapazität
@@ -176,6 +181,7 @@ Name[x-test]=xxInotify Watch Capacity Lowxx
 Name[zh_CN]=Inotify 监视数量接近上限
 Name[zh_TW]=Inotify 監控能力不足
 Comment=Available amount of inotify watches is low
+Comment[ar]=الكمية المتاحة من مراقبات inotify منخفضة
 Comment[ca]=La quantitat disponible de vigilàncies de l'inotify és baixa
 Comment[ca@valencia]=La quantitat disponible de vigilàncies d'inotify és baixa
 Comment[de]=Die Anzahl der weiteren inotify-Überwachungen (Dateien) ist gering
