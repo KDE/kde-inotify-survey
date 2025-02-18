@@ -8,6 +8,7 @@
   <metadata_license>FSFAP</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>inotify Survey</name>
+  <name xml:lang="ar">استطلاع رأي inotify</name>
   <name xml:lang="ca">Enquesta d'inotify</name>
   <name xml:lang="ca-valencia">Enquesta d'inotify</name>
   <name xml:lang="de">inotify Survey</name>
@@ -40,6 +41,7 @@
   <name xml:lang="zh-CN">inotify 检查程序</name>
   <name xml:lang="zh-TW">inotify 調查</name>
   <summary>Surveys inotify state of the system</summary>
+  <summary xml:lang="ar">استطلاعات الرأي توضح حالة النظام</summary>
   <summary xml:lang="ca">Enquesta l'estat del sistema de l'inotify</summary>
   <summary xml:lang="ca-valencia">Enquesta l'estat del sistema d'inotify</summary>
   <summary xml:lang="de">inotify-Status des Systems überblicken</summary>
@@ -73,6 +75,7 @@
   <summary xml:lang="zh-TW">調查系統的 inotify 狀態</summary>
   <description>
     <p>Have you ever wondered why Dolphin or any other application stopped noticing file changes? Chances are you ran out of inotify resources. kde-inotify-survey to the rescue! Sporting a KDED module to tell you when things are getting dicey and a CLI tool to inspect the state of affairs.</p>
+    <p xml:lang="ar">هل تساءلت يومًا عن سبب توقف دولفين أو أي تطبيق آخر عن ملاحظة تغييرات الملفات؟ من المحتمل أنه نفدت موارد inotify. kde-inotify-survey هو الحل! فهو يحتوي على وحدة KDED لإخبارك عندما تصبح الأمور خطيرة وأداة CLI لفحص الحالة.</p>
     <p xml:lang="ca">Us heu preguntat mai per què el Dolphin o qualsevol altra aplicació van deixar de notificar els canvis dels fitxers? Les probabilitats són que no quedin recursos d'inotify. El «kde-inotify-survey» ve al rescat! Exporteu un mòdul KDED per a dir-vos quan les coses no van bé i una eina CLI per a inspeccionar l'estat dels assumptes.</p>
     <p xml:lang="ca-valencia">Vos heu preguntat mai per què Dolphin o qualsevol altra aplicació van deixar de notificar els canvis en els fitxers? Les probabilitats són que no queden recursos d'inotify. El «kde-inotify-survey» ve al rescat! Exporteu un mòdul KDED per a dir-vos quan les coses no van bé i una eina CLI per a inspeccionar l'estat dels assumptes.</p>
     <p xml:lang="de">Ist Ihnen schon mal aufgefallen, dass bei Dolphin oder eine andere Anwendung die Benachrichtigung über Dateiänderungen nicht mehr funktioniert? Es könnte daran liegen, dass nicht genügend inotify-Ressourcen zur Verfügung stehen. kde-inotify-survey hilft dabei, indem ein KDED-Modul über die brisante Lage informiert und ein Befehlszeilenprogramm die Hintergründe dafür zeigt.</p>
@@ -107,6 +110,7 @@
   </description>
   <project_group>KDE</project_group>
   <developer_name>Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="ar">هارالد سيتر &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="ca">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="ca-valencia">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="cs">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
