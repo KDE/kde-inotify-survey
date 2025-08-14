@@ -78,7 +78,7 @@ Comment[zh_TW]=關於 inotify 能力問題的警告
 
 [Event/inotifyinstancelow]
 Name=Inotify Instances Capacity Low
-Name[ar]=سعة مثيلات Inotify منخفضة
+Name[ar]=سعة نسخةات Inotify منخفضة
 Name[ca]=Baixa capacitat d'instàncies de l'inotify
 Name[ca@valencia]=Baixa la capacitat d'instàncies d'inotify
 Name[de]=Geringe Inotify-Instanzenkapazität
