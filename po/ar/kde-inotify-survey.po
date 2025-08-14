@@ -22,7 +22,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
-msgstr "سعة مثيل Inotify منخفضة"
+msgstr "سعة نسخة Inotify منخفضة"
 
 #: kded/kded.cpp:128
 #, kde-format
@@ -57,7 +57,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
-msgstr "زيادة حد المثيل"
+msgstr "زيادة حد النسخة"
 
 #: kded/kded.cpp:149
 #, kde-format
