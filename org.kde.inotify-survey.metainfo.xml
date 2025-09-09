@@ -39,7 +39,6 @@
   <name xml:lang="sv">inotify-kartläggning</name>
   <name xml:lang="tr">inotify Anketi</name>
   <name xml:lang="uk">Огляд inotify</name>
-  <name xml:lang="x-test">xxinotify Surveyxx</name>
   <name xml:lang="zh-CN">inotify 检查程序</name>
   <name xml:lang="zh-TW">inotify 調查</name>
   <summary>Surveys inotify state of the system</summary>
@@ -74,7 +73,6 @@
   <summary xml:lang="sv">Kartlägger systemets inotify-tillstånd</summary>
   <summary xml:lang="tr">Sistemin inotify durumunu gözden geçirir</summary>
   <summary xml:lang="uk">Подає огляд стану inotify системи</summary>
-  <summary xml:lang="x-test">xxSurveys inotify state of the systemxx</summary>
   <summary xml:lang="zh-CN">检查系统的 inotify 服务状态</summary>
   <summary xml:lang="zh-TW">調查系統的 inotify 狀態</summary>
   <description>
@@ -110,7 +108,6 @@
     <p xml:lang="sv">Har du någonsin undrat över varför Dolphin eller något annat program slutade märka ändringar av filer? Chansen är stor att du fick slut på inotify-resurser. Verktyget kde-inotify-survey kan vara räddningen! Det ståtar med en KDED-modul för att tala om för dig när saker och ting håller på att bli nyckfulla, och ett kommandoradsverktyg för att inspektera situationen.</p>
     <p xml:lang="tr">Hiç Dolphin veya başka bir uygulamanın dosya değişikliklerini ayrımlamayı durdurduğunu merak ettiniz mi? Büyük olasılıkla inotify özkaynakları tükenmiş olabilir. kde-inotify-survey günü kurtarmaya geldi! İşler zora girdiğinde size bilgi verecek bir KDED modülü ve incelemek için bir komut satırı aracı ile birlikte gelir.</p>
     <p xml:lang="uk">Чи доводилося вам колись стикатися із ситуацією, коли Dolphin або якась інша програма переставала помічати зміни у файлі? Ймовірно, причиною було вичерпання ресурсів inotify. kde-inotify-survey допоможе розібратися із проблемою! До складу пакунка включено модуль KDED, який повідомить вам про проблему, та інструмент командного рядка для вивчення стану речей.</p>
-    <p xml:lang="x-test">xxHave you ever wondered why Dolphin or any other application stopped noticing file changes? Chances are you ran out of inotify resources. kde-inotify-survey to the rescue! Sporting a KDED module to tell you when things are getting dicey and a CLI tool to inspect the state of affairs.xx</p>
     <p xml:lang="zh-CN">您是否曾经为 Dophin 或者其他应用程序不再能够发现文件更改而苦恼？这种情况很有可能是系统的 inotify 资源被用尽所导致的。kde-inotify-survey 是一款针对这种情况的检查工具，它还带有一个命令行工具程序来检查 inotify 资源情况，还带有一个 KDED 模块用于通知用户相关情况。</p>
     <p xml:lang="zh-TW">您是否曾經疑惑過為什麼 Dolphin 或其他任何應用程式沒辦法繼續發現檔案變更？這很可能代表您用盡了 inotify 資源。kde-inotify-survey 會幫助您！它提供一個 KDED 模組來告訴您資源即將用盡，也有一個命令列工具讓您檢查 inotify 的狀態。</p>
   </description>
@@ -150,7 +147,6 @@
   <developer_name xml:lang="sv">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="tr">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="uk">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
-  <developer_name xml:lang="x-test">xxHarald Sitter &lt;sitter@kde.org&gt;xx</developer_name>
   <developer_name xml:lang="zh-CN">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="zh-TW">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <categories>
