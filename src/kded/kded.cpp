@@ -42,7 +42,10 @@ public:
     {
         if (context.percent < warningPercent) {
             m_notified = false;
-            m_notification = nullptr;
+            if (m_notification) {
+                m_notification->close();
+                m_notification = nullptr;
+            }
         } else if (!m_notified) {
             m_notified = true;
             m_notification = new KNotification(context.eventId);
