@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"POT-Creation-Date: 2025-09-24 02:37+0000\n"
 "PO-Revision-Date: 2024-09-24 16:47+0300\n"
 "Last-Translator: Toms Trasuns <toms.trasuns@posteo.net>\n"
 "Language-Team: Latvian <kde-i18n-doc@kde.org>\n"
@@ -18,13 +18,13 @@ msgstr ""
 "2);\n"
 "X-Generator: Lokalize 24.08.0\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Zema „Inotify“ instanču kapacitāte"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:131
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -38,7 +38,7 @@ msgstr ""
 "korekti. Vai nu aizveriet kādu no šīm programmām, vai arī palieliniet "
 "limitu. Šobrīd izmanto %1 % no instancēm un %2 % no pārraudzības resursiem."
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:138
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -54,19 +54,19 @@ msgstr ""
 "programmām, lai iegūtu vairāk brīvu resursu. Šobrīd izmanto %1 % no "
 "instancēm un %2 % no pārraudzības resursiem."
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:145
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Palielināt instanču limitu"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "„Inotify“ pārraudzības kapacitāte ir zema"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:155
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -80,7 +80,7 @@ msgstr ""
 "notikt korekti. Vai nu aizveriet kādu no šīm programmām, vai arī palieliniet "
 "limitu. Šobrīd izmanto %1 % no instancēm un %2 % no pārraudzības resursiem."
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:162
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -96,7 +96,7 @@ msgstr ""
 "šīm programmām, lai iegūtu vairāk brīvu resursu. Šobrīd izmanto %1 % no "
 "instancēm un %2 % no pārraudzības resursiem."
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:169
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
