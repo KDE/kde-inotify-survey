@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"POT-Creation-Date: 2025-09-24 00:46+0000\n"
 "PO-Revision-Date: 2022-05-11 00:47+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
 "%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr ""
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:131
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -34,7 +34,7 @@ msgid ""
 "using %1% of instances and %2% of watches."
 msgstr ""
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:138
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -45,19 +45,19 @@ msgid ""
 "watches."
 msgstr ""
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:145
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr ""
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr ""
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:155
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -67,7 +67,7 @@ msgid ""
 "using %1% of instances and %2% of watches."
 msgstr ""
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:162
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -78,7 +78,7 @@ msgid ""
 "watches."
 msgstr ""
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:169
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

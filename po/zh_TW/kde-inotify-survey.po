@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"POT-Creation-Date: 2025-09-24 00:46+0000\n"
 "PO-Revision-Date: 2024-01-21 01:42+0900\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
@@ -20,13 +20,13 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 23.08.4\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Inotify 實體能力不足"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:131
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -38,7 +38,7 @@ msgstr ""
 "您有太多希望監控檔案變更的應用程式了！當能力用盡時會無法繼續正常監控檔案變"
 "更。您可以關閉一些應用程式或提高限制。目前使用實體的 %1% 和監控的 %2%。"
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:138
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -52,19 +52,19 @@ msgstr ""
 "更。您的能力無法被提高。請嘗試關閉一些應用程式來回復額外資源。目前使用實體的 "
 "%1% 和監控的 %2%。"
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:145
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "提高實體限制"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Inotify 監控能力不足"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:155
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -76,7 +76,7 @@ msgstr ""
 "您已開啟的應用程式希望監控的檔案數量太多了！當能力用盡時會無法繼續正常監控檔"
 "案變更。您可以關閉一些應用程式或提高限制。目前使用實體的 %1% 和監控的 %2%。"
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:162
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -90,7 +90,7 @@ msgstr ""
 "案變更。您的能力無法被提高。請嘗試關閉一些應用程式來回復額外資源。目前使用實"
 "體的 %1% 和監控的 %2%。"
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:169
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

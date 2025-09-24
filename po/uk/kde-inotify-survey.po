@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"POT-Creation-Date: 2025-09-24 00:46+0000\n"
 "PO-Revision-Date: 2024-01-17 22:10+0200\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -19,13 +19,13 @@ msgstr ""
 "%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Lokalize 23.04.1\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Вичерпуються можливості екземпляра inotify"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:131
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -39,7 +39,7 @@ msgstr ""
 "належним чином. Або завершіть роботу якихось програм, або збільште порогове "
 "значення обмеження. Зараз використано %1% екземплярів та %2% спостережень."
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:138
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -55,19 +55,19 @@ msgstr ""
 "завершити роботу деяких програм, що вивільнити додаткові ресурси. Зараз "
 "використано %1% екземплярів та %2% спостережень."
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:145
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Збільшити максимальну кількість екземплярів"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Вичерпуються можливості щодо спостереження inotify"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:155
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -82,7 +82,7 @@ msgstr ""
 "або збільште порогове значення обмеження. Зараз використано %1% екземплярів "
 "та %2% спостережень."
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:162
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -98,7 +98,7 @@ msgstr ""
 "бути розширено. Спробуйте завершити роботу деяких програм, що вивільнити "
 "додаткові ресурси. Зараз використано %1% екземплярів та %2% спостережень."
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:169
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"

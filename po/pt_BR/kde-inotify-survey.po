@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-17 00:39+0000\n"
+"POT-Creation-Date: 2025-09-24 00:46+0000\n"
 "PO-Revision-Date: 2025-08-05 23:58-0300\n"
 "Last-Translator: Geraldo Simiao <geraldosimiao@fedoraproject.org>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 25.04.3\n"
 
-#: kded/kded.cpp:125
+#: kded/kded.cpp:128
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Instance Capacity Low"
 msgstr "Capacidade de instância do inotify baixa"
 
-#: kded/kded.cpp:128
+#: kded/kded.cpp:131
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -37,7 +37,7 @@ msgstr ""
 "continue funcionando corretamente. Feche alguns aplicativos ou aumente o "
 "limite. Atualmente usando %1% das instâncias e %2% dos relógios."
 
-#: kded/kded.cpp:135
+#: kded/kded.cpp:138
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -53,19 +53,19 @@ msgstr ""
 "alguns aplicativos para recuperar recursos adicionais. Atualmente usando %1% "
 "das instâncias e %2% dos relógios."
 
-#: kded/kded.cpp:142
+#: kded/kded.cpp:145
 #, kde-format
 msgctxt "@action"
 msgid "Increase Instance Limit"
 msgstr "Aumentar o limite de instâncias"
 
-#: kded/kded.cpp:149
+#: kded/kded.cpp:152
 #, kde-format
 msgctxt "@title"
 msgid "Inotify Watch Capacity Low"
 msgstr "Capacidade baixa do relógio Inotify"
 
-#: kded/kded.cpp:152
+#: kded/kded.cpp:155
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -80,7 +80,7 @@ msgstr ""
 "aplicativos ou aumente o limite. Atualmente usando %1% das instâncias e %2% "
 "dos relógios."
 
-#: kded/kded.cpp:159
+#: kded/kded.cpp:162
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -96,7 +96,7 @@ msgstr ""
 "fechar alguns aplicativos para recuperar recursos adicionais. Atualmente "
 "usando %1% das instâncias e %2% dos relógios."
 
-#: kded/kded.cpp:166
+#: kded/kded.cpp:169
 #, kde-format
 msgctxt "@action"
 msgid "Increase Watch Limit"
