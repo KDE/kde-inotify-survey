@@ -1,13 +1,13 @@
 # Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the kde-inotify-survey package.
 #
-# SPDX-FileCopyrightText: 2024 Yaron Shahrabani <sh.yaron@gmail.com>
+# SPDX-FileCopyrightText: 2024, 2025 Yaron Shahrabani <sh.yaron@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-24 02:37+0000\n"
-"PO-Revision-Date: 2024-03-25 20:54+0200\n"
+"PO-Revision-Date: 2025-10-05 12:24+0300\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: צוות התרגום של KDE ישראל\n"
 "Language: he\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Lokalize 23.08.5\n"
+"X-Generator: Lokalize 25.08.1\n"
 
 #: kded/kded.cpp:128
 #, kde-format
@@ -49,8 +49,8 @@ msgid ""
 msgstr ""
 "יש לך יותר מדי יישומים שרוצים לעקוב אחר שינויים בקבצים! כאשר הקיבולת מנוצלת "
 "עד תום המעקב אחר הקבצים לא יעבוד כראוי. אי אפשר להגדיל את הקיבולת שלך. כדאי "
-"לסגור כמה  מהיישומים או לשחרר משאבים נוספים. כרגע %1% מהמופעים ו־%2% "
-"מהמעקבים מנוצלים."
+"לסגור כמה מהיישומים או לשחרר משאבים נוספים. כרגע %1% מהמופעים ו־%2% מהמעקבים "
+"מנוצלים."
 
 #: kded/kded.cpp:145
 #, kde-format
@@ -89,7 +89,7 @@ msgid ""
 msgstr ""
 "היישומים הפתוחים שלך רוצים לעקוב אחר שינויים ביותר מדי קבצים! כאשר הקיבולת "
 "מנוצלת עד תום המעקב אחר הקבצים לא יעבוד כראוי. אי אפשר להגדיל את הקיבולת "
-"שלך. כדאי לסגור כמה  מהיישומים או לשחרר משאבים נוספים. כרגע %1% מהמופעים ו־"
+"שלך. כדאי לסגור כמה מהיישומים או לשחרר משאבים נוספים. כרגע %1% מהמופעים ו־"
 "%2% מהמעקבים מנוצלים."
 
 #: kded/kded.cpp:169
