@@ -28,6 +28,7 @@
         "Description[ro]": "Monitorizează resurse inotify pentru semne de epuizare",
         "Description[ru]": "Отслеживает признаки истощения ресурсов inotify",
         "Description[sa]": "निरीक्षकाः श्रमस्य लक्षणानाम् कृते संसाधनानाम् सूचनां ददति",
+        "Description[sk]": "Monitoruje prostriedky inotify na známky vyčerpania",
         "Description[sl]": "Nadzoruje vire inotify za znaki izčrpavanja",
         "Description[sv]": "Övervakar inotify-resurser efter tecken på förbrukning",
         "Description[tr]": "Tükenme durumuna karşın inotify özkaynaklarını izler",
