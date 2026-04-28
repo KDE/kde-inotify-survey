@@ -22,6 +22,7 @@
         "Description[ko]": "inotify 자원 고갈 관찰",
         "Description[lv]": "Pārrauga „Inotify“ resursus, meklējot izsīkuma pazīmes",
         "Description[nl]": "Monitort hulpbronnen van inotify op tekenen van uitputting",
+        "Description[nn]": "Overvaker inotify-ressursar etter teikn på ressursoppbruk",
         "Description[pl]": "Monitoruje zasoby inotify na wypadek ich wyczerpania",
         "Description[pt]": "Monitoriza os recursos do Inotify para detectar sinais do seu esgotamento",
         "Description[pt_BR]": "Monitora os recursos de inotify quanto a sinais de exaustão",
