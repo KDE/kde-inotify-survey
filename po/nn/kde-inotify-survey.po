@@ -1,6 +1,5 @@
 # Translation of kde-inotify-survey to Norwegian Nynorsk
 #
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
