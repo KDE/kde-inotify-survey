@@ -40,6 +40,7 @@
   <name xml:lang="sl">inotify Survey</name>
   <name xml:lang="sv">inotify-kartläggning</name>
   <name xml:lang="tr">inotify Anketi</name>
+  <name xml:lang="ug">inotify تەكشۈرۈش</name>
   <name xml:lang="uk">Огляд inotify</name>
   <name xml:lang="zh-CN">inotify 检查程序</name>
   <name xml:lang="zh-TW">inotify 調查</name>
@@ -76,6 +77,7 @@
   <summary xml:lang="sl">Anketa stanja sistema inotify</summary>
   <summary xml:lang="sv">Kartlägger systemets inotify-tillstånd</summary>
   <summary xml:lang="tr">Sistemin inotify durumunu gözden geçirir</summary>
+  <summary xml:lang="ug">سىستېمىنىڭ Inotify ھالىتىنى تەكشۈرىدۇ</summary>
   <summary xml:lang="uk">Подає огляд стану inotify системи</summary>
   <summary xml:lang="zh-CN">检查系统的 inotify 服务状态</summary>
   <summary xml:lang="zh-TW">調查系統的 inotify 狀態</summary>
