@@ -33,6 +33,7 @@
         "Description[sl]": "Nadzoruje vire inotify za znaki izčrpavanja",
         "Description[sv]": "Övervakar inotify-resurser efter tecken på förbrukning",
         "Description[tr]": "Tükenme durumuna karşın inotify özkaynaklarını izler",
+        "Description[ug]": "inotify مەنبەسى خوراپ تۈگىدىمۇ يوق نازارەت قىلىدۇ",
         "Description[uk]": "Спостерігає за ознаками вичерпання ресурсів inotify",
         "Description[zh_CN]": "监视 inotify 资源是否即将耗尽",
         "Description[zh_TW]": "監控 inotify 資源是否即將用盡",
@@ -70,6 +71,7 @@
         "Name[sl]": "inotify",
         "Name[sv]": "inotify",
         "Name[tr]": "inotify",
+        "Name[ug]": "inotify",
         "Name[uk]": "inotify",
         "Name[zh_CN]": "inotify",
         "Name[zh_TW]": "inotify"
