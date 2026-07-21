@@ -4,6 +4,7 @@
         "Description[ar]": "مراقبة موارد inotify بحثًا عن علامات الاستنفاد",
         "Description[ca@valencia]": "Controla els recursos d'inotify buscant senyals d'exhauriment",
         "Description[ca]": "Controla els recursos de l'inotify cercant senyals d'exhauriment",
+        "Description[cs]": "Sleduje zdroje inotify, zda nevykazují známky vyčerpání",
         "Description[de]": "Überwacht inotify-Ressourcen auf Zeichen von Überlastungen",
         "Description[en_GB]": "Monitors inotify resources for signs of exhaustion",
         "Description[eo]": "Monitoras inotify-rimedojn pri signoj de elĉerpiĝo",
