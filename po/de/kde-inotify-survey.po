@@ -1,7 +1,7 @@
 # German translations for kde-inotify-survey package.
 # Copyright (C) 2022 This file is copyright:
 # This file is distributed under the same license as the kde-inotify-survey package.
-# SPDX-FileCopyrightText: 2023, 2024 Johannes Obermayr <johannesobermayr@gmx.de>
+# SPDX-FileCopyrightText: 2023-2024 Johannes Obermayr <johannesobermayr@gmx.de>
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-inotify-survey\n"
