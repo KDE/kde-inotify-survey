@@ -1,0 +1,99 @@
+# Nemanja Hiršl <nemhirsl@gmail.com>, 2026.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-inotify-survey\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 11:54+0000\n"
+"PO-Revision-Date: 2026-10-10 13:47+0200\n"
+"Last-Translator: Nemanja Hiršl <nemhirsl@gmail.com>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#: kded/kded.cpp:128
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Instance Capacity Low"
+msgstr "Mali kapacitet primeraka inotify"
+
+#: kded/kded.cpp:131
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Previše programa želi da nadgleda izmene fajlova! Kada se kapacitet potroši, "
+"nadgledanje fajlova više neće raditi kako treba. Zatvorite neke programe ili "
+"povećajte ograničenje. Trenutno se koristi %1% primeraka i %2% nadzora."
+
+#: kded/kded.cpp:138
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have too many applications wanting to monitor file changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Previše programa želi da nadgleda izmene fajlova! Kada se kapacitet potroši, "
+"nadgledanje fajlova više neće raditi kako treba. Vaš kapacitet ne može da se "
+"poveća. Pokušajte da zatvorite neke programe da biste oslobodili resurse. "
+"Trenutno se koristi %1% primeraka i %2% nadzora."
+
+#: kded/kded.cpp:145
+#, kde-format
+msgctxt "@action"
+msgid "Increase Instance Limit"
+msgstr "Povećaj ograničenje primeraka"
+
+#: kded/kded.cpp:152
+#, kde-format
+msgctxt "@title"
+msgid "Inotify Watch Capacity Low"
+msgstr "Mali kapacitet nadzora inotify"
+
+#: kded/kded.cpp:155
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Either close some applications or increase the limit. Currently "
+"using %1% of instances and %2% of watches."
+msgstr ""
+"Otvoreni programi žele da nadgledaju izmene previše fajlova! Kada se "
+"kapacitet potroši, nadgledanje fajlova više neće raditi kako treba. "
+"Zatvorite neke programe ili povećajte ograničenje. Trenutno se koristi %1% "
+"primeraka i %2% nadzora."
+
+#: kded/kded.cpp:162
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your open applications want to watch too many files for changes! When the "
+"capacity is exhausted it will prevent further file monitoring from working "
+"correctly. Your capacity cannot be increased. Try closing some applications "
+"to recover additional resources. Currently using %1% of instances and %2% of "
+"watches."
+msgstr ""
+"Otvoreni programi žele da nadgledaju izmene previše fajlova! Kada se "
+"kapacitet potroši, nadgledanje fajlova više neće raditi kako treba. Vaš "
+"kapacitet ne može da se poveća. Pokušajte da zatvorite neke programe da "
+"biste oslobodili resurse. Trenutno se koristi %1% primeraka i %2% nadzora."
+
+#: kded/kded.cpp:169
+#, kde-format
+msgctxt "@action"
+msgid "Increase Watch Limit"
+msgstr "Povećaj ograničenje nadzora"
