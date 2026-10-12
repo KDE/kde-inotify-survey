@@ -39,6 +39,10 @@
   <name xml:lang="sa">inotify सर्वेक्षणम्</name>
   <name xml:lang="sk">Prieskum inotify</name>
   <name xml:lang="sl">inotify Survey</name>
+  <name xml:lang="sr">Преглед inotify</name>
+  <name xml:lang="sr-Latn">Pregled inotify</name>
+  <name xml:lang="sr-ijekavian">Преглед inotify</name>
+  <name xml:lang="sr-ijekavianlatin">Pregled inotify</name>
   <name xml:lang="sv">inotify-kartläggning</name>
   <name xml:lang="tr">inotify Anketi</name>
   <name xml:lang="ug">inotify تەكشۈرۈش</name>
@@ -77,6 +81,10 @@
   <summary xml:lang="sa">सर्वेक्षणैः प्रणाल्याः स्थितिः सूचिता भवति</summary>
   <summary xml:lang="sk">Skúma stav inotify v systéme</summary>
   <summary xml:lang="sl">Anketa stanja sistema inotify</summary>
+  <summary xml:lang="sr">Прегледа стање inotify на систему</summary>
+  <summary xml:lang="sr-Latn">Pregleda stanje inotify na sistemu</summary>
+  <summary xml:lang="sr-ijekavian">Прегледа стање inotify на систему</summary>
+  <summary xml:lang="sr-ijekavianlatin">Pregleda stanje inotify na sistemu</summary>
   <summary xml:lang="sv">Kartlägger systemets inotify-tillstånd</summary>
   <summary xml:lang="tr">Sistemin inotify durumunu gözden geçirir</summary>
   <summary xml:lang="ug">سىستېمىنىڭ Inotify ھالىتىنى تەكشۈرىدۇ</summary>
@@ -116,6 +124,10 @@
     <p xml:lang="sa">किं भवन्तः कदापि चिन्तितवन्तः यत् Dolphin अथवा अन्यः कोऽपि अनुप्रयोगः सञ्चिकापरिवर्तनं किमर्थं त्यक्तवान्? संभावना अस्ति यत् भवतः inotify संसाधनं समाप्तम्। kde-inotify-सर्वेक्षणं उद्धाराय! कदा विषयाः पासा भवन्ति इति वक्तुं KDED मॉड्यूलस्य स्पोर्टिंग् तथा च कार्यस्य स्थितिं निरीक्षितुं CLI साधनं।</p>
     <p xml:lang="sk">Premýšľali ste niekedy, prečo Dolphin alebo iná aplikácia prestali zaznamenávať zmeny súborov? Je pravdepodobné, že ste vyčerpali prostriedky inotify. Na pomoc prichádza kde-inotify-survey! Obsahuje modul KDED, ktorý vás upozorní, keď sa situácia zhoršuje, a nástroj príkazového riadka na preskúmanie stavu vecí.</p>
     <p xml:lang="sl">Ali ste se kdaj vprašali, zakaj je Dolphin ali katera druga aplikacija prenehala zaznavati spremembe datotek? Možno je, da ste porabili vse vire za inotify. Na pomoč kde-inotify-survey! To je športni modul KDED, ki vam pove, kdaj so stvari postale nepredvidljive in ukazno orodje za pregled stanja.</p>
+    <p xml:lang="sr">Да ли сте се икад запитали зашто Делфин или неки други програм више не примећује измене фајлова? Највероватније сте потрошили ресурсе inotify. kde-inotify-survey прискаче у помоћ! Доноси КДЕД модул који вас обавештава када ствари постану незгодне и алатку командне линије за преглед стања.</p>
+    <p xml:lang="sr-Latn">Da li ste se ikad zapitali zašto Dolphin ili neki drugi program više ne primećuje izmene fajlova? Najverovatnije ste potrošili resurse inotify. kde-inotify-survey priskače u pomoć! Donosi KDED modul koji vas obaveštava kada stvari postanu nezgodne i alatku komandne linije za pregled stanja.</p>
+    <p xml:lang="sr-ijekavian">Да ли сте се икад запитали зашто Делфин или неки други програм више не примјећује измјене фајлова? Највјероватније сте потрошили ресурсе inotify. kde-inotify-survey прискаче у помоћ! Доноси КДЕД модул који вас обавјештава када ствари постану незгодне и алатку командне линије за преглед стања.</p>
+    <p xml:lang="sr-ijekavianlatin">Da li ste se ikad zapitali zašto Dolphin ili neki drugi program više ne primjećuje izmjene fajlova? Najvjerovatnije ste potrošili resurse inotify. kde-inotify-survey priskače u pomoć! Donosi KDED modul koji vas obavještava kada stvari postanu nezgodne i alatku komandne linije za pregled stanja.</p>
     <p xml:lang="sv">Har du någonsin undrat över varför Dolphin eller något annat program slutade märka ändringar av filer? Chansen är stor att du fick slut på inotify-resurser. Verktyget kde-inotify-survey kan vara räddningen! Det ståtar med en KDED-modul för att tala om för dig när saker och ting håller på att bli nyckfulla, och ett kommandoradsverktyg för att inspektera situationen.</p>
     <p xml:lang="tr">Hiç Dolphin veya başka bir uygulamanın dosya değişikliklerini ayrımlamayı durdurduğunu merak ettiniz mi? Büyük olasılıkla inotify özkaynakları tükenmiş olabilir. kde-inotify-survey günü kurtarmaya geldi! İşler zora girdiğinde size bilgi verecek bir KDED modülü ve incelemek için bir komut satırı aracı ile birlikte gelir.</p>
     <p xml:lang="uk">Чи доводилося вам колись стикатися із ситуацією, коли Dolphin або якась інша програма переставала помічати зміни у файлі? Ймовірно, причиною було вичерпання ресурсів inotify. kde-inotify-survey допоможе розібратися із проблемою! До складу пакунка включено модуль KDED, який повідомить вам про проблему, та інструмент командного рядка для вивчення стану речей.</p>
@@ -155,6 +167,10 @@
   <developer_name xml:lang="sa">हरल्ड सिटर &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="sk">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="sl">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="sr">Харалд Ситер &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="sr-Latn">Harald Siter &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="sr-ijekavian">Харалд Ситер &lt;sitter@kde.org&gt;</developer_name>
+  <developer_name xml:lang="sr-ijekavianlatin">Harald Siter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="sv">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="tr">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
   <developer_name xml:lang="uk">Harald Sitter &lt;sitter@kde.org&gt;</developer_name>
